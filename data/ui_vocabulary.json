@@ -1,0 +1,286 @@
+{
+  "categories": [
+    {
+      "name": "Git & Version Control",
+      "icon": "🔀",
+      "terms": [
+        {
+          "english": "Commit",
+          "japanese": "コミット（変更を記録）",
+          "context": "Commit your changes to save them in the repository",
+          "related_terms": ["Push", "Pull", "Merge"]
+        },
+        {
+          "english": "Push",
+          "japanese": "プッシュ（変更をアップロード）",
+          "context": "Push your commits to the remote repository",
+          "related_terms": ["Commit", "Pull", "Remote"]
+        },
+        {
+          "english": "Pull",
+          "japanese": "プル（変更をダウンロード）",
+          "context": "Pull the latest changes from the remote repository",
+          "related_terms": ["Push", "Fetch", "Merge"]
+        },
+        {
+          "english": "Merge",
+          "japanese": "マージ（統合）",
+          "context": "Merge the feature branch into main",
+          "related_terms": ["Branch", "Commit", "Conflict"]
+        },
+        {
+          "english": "Branch",
+          "japanese": "ブランチ（分岐）",
+          "context": "Create a new branch for your feature",
+          "related_terms": ["Checkout", "Merge", "Delete"]
+        },
+        {
+          "english": "Clone",
+          "japanese": "クローン（複製）",
+          "context": "Clone the repository to your local machine",
+          "related_terms": ["Fork", "Download", "Repository"]
+        },
+        {
+          "english": "Fork",
+          "japanese": "フォーク（派生リポジトリ作成）",
+          "context": "Fork this repository to contribute",
+          "related_terms": ["Clone", "Pull Request", "Upstream"]
+        },
+        {
+          "english": "Pull Request",
+          "japanese": "プルリクエスト（変更の提案）",
+          "context": "Create a pull request to propose your changes",
+          "related_terms": ["Review", "Merge", "Approve"]
+        },
+        {
+          "english": "Conflict",
+          "japanese": "コンフリクト（競合）",
+          "context": "Resolve conflicts before merging",
+          "related_terms": ["Merge", "Resolve", "Diff"]
+        },
+        {
+          "english": "Stash",
+          "japanese": "スタッシュ（一時保存）",
+          "context": "Stash your changes before switching branches",
+          "related_terms": ["Pop", "Apply", "Drop"]
+        }
+      ]
+    },
+    {
+      "name": "Deployment & CI/CD",
+      "icon": "🚀",
+      "terms": [
+        {
+          "english": "Deploy",
+          "japanese": "デプロイ（配備・公開）",
+          "context": "Deploy your application to production",
+          "related_terms": ["Build", "Release", "Rollback"]
+        },
+        {
+          "english": "Build",
+          "japanese": "ビルド（構築）",
+          "context": "Build the project before deployment",
+          "related_terms": ["Compile", "Bundle", "Deploy"]
+        },
+        {
+          "english": "Preview",
+          "japanese": "プレビュー（事前確認）",
+          "context": "View the preview deployment before going live",
+          "related_terms": ["Deploy", "Staging", "Production"]
+        },
+        {
+          "english": "Rollback",
+          "japanese": "ロールバック（巻き戻し）",
+          "context": "Rollback to the previous version if issues occur",
+          "related_terms": ["Deploy", "Revert", "Version"]
+        },
+        {
+          "english": "Pipeline",
+          "japanese": "パイプライン（自動処理フロー）",
+          "context": "The CI/CD pipeline runs tests automatically",
+          "related_terms": ["Build", "Test", "Deploy"]
+        },
+        {
+          "english": "Trigger",
+          "japanese": "トリガー（起動）",
+          "context": "Trigger the deployment manually",
+          "related_terms": ["Execute", "Run", "Start"]
+        },
+        {
+          "english": "Environment",
+          "japanese": "環境",
+          "context": "Configure environment variables for production",
+          "related_terms": ["Staging", "Production", "Development"]
+        },
+        {
+          "english": "Logs",
+          "japanese": "ログ（記録）",
+          "context": "Check the deployment logs for errors",
+          "related_terms": ["Debug", "Console", "Output"]
+        }
+      ]
+    },
+    {
+      "name": "Database",
+      "icon": "🗄️",
+      "terms": [
+        {
+          "english": "Query",
+          "japanese": "クエリ（問い合わせ）",
+          "context": "Run a query to fetch the data",
+          "related_terms": ["Select", "Filter", "Search"]
+        },
+        {
+          "english": "Schema",
+          "japanese": "スキーマ（データ構造）",
+          "context": "Define the database schema",
+          "related_terms": ["Table", "Column", "Model"]
+        },
+        {
+          "english": "Index",
+          "japanese": "インデックス（索引）",
+          "context": "Create an index to improve query performance",
+          "related_terms": ["Optimize", "Performance", "Query"]
+        },
+        {
+          "english": "Migration",
+          "japanese": "マイグレーション（データ移行）",
+          "context": "Run migrations to update the database schema",
+          "related_terms": ["Schema", "Update", "Version"]
+        },
+        {
+          "english": "Backup",
+          "japanese": "バックアップ（複製保存）",
+          "context": "Create a backup before making changes",
+          "related_terms": ["Restore", "Export", "Archive"]
+        },
+        {
+          "english": "Restore",
+          "japanese": "リストア（復元）",
+          "context": "Restore the database from backup",
+          "related_terms": ["Backup", "Recovery", "Import"]
+        },
+        {
+          "english": "Transaction",
+          "japanese": "トランザクション（一連の処理）",
+          "context": "Commit the transaction to save changes",
+          "related_terms": ["Commit", "Rollback", "Atomic"]
+        },
+        {
+          "english": "Replication",
+          "japanese": "レプリケーション（複製）",
+          "context": "Enable replication for high availability",
+          "related_terms": ["Sync", "Master", "Slave"]
+        }
+      ]
+    },
+    {
+      "name": "Cloud Services",
+      "icon": "☁️",
+      "terms": [
+        {
+          "english": "Instance",
+          "japanese": "インスタンス（仮想サーバー）",
+          "context": "Launch a new instance in the cloud",
+          "related_terms": ["VM", "Server", "Start"]
+        },
+        {
+          "english": "Bucket",
+          "japanese": "バケット（ストレージ容器）",
+          "context": "Upload files to the S3 bucket",
+          "related_terms": ["Storage", "Object", "File"]
+        },
+        {
+          "english": "Region",
+          "japanese": "リージョン（地域）",
+          "context": "Select the region closest to your users",
+          "related_terms": ["Zone", "Location", "Availability"]
+        },
+        {
+          "english": "Scaling",
+          "japanese": "スケーリング（拡張・縮小）",
+          "context": "Enable auto-scaling for high traffic",
+          "related_terms": ["Auto", "Horizontal", "Vertical"]
+        },
+        {
+          "english": "Load Balancer",
+          "japanese": "ロードバランサー（負荷分散装置）",
+          "context": "Configure the load balancer to distribute traffic",
+          "related_terms": ["Traffic", "Distribution", "Health Check"]
+        },
+        {
+          "english": "Firewall",
+          "japanese": "ファイアウォール（防火壁）",
+          "context": "Configure firewall rules to secure your instance",
+          "related_terms": ["Security", "Rules", "Access"]
+        },
+        {
+          "english": "Snapshot",
+          "japanese": "スナップショット（瞬間記録）",
+          "context": "Create a snapshot before system updates",
+          "related_terms": ["Backup", "Image", "Restore"]
+        },
+        {
+          "english": "Billing",
+          "japanese": "請求（料金）",
+          "context": "View your billing information and costs",
+          "related_terms": ["Cost", "Usage", "Invoice"]
+        }
+      ]
+    },
+    {
+      "name": "No-Code Tools",
+      "icon": "🎨",
+      "terms": [
+        {
+          "english": "Workflow",
+          "japanese": "ワークフロー（作業の流れ）",
+          "context": "Create a workflow to automate tasks",
+          "related_terms": ["Automation", "Process", "Steps"]
+        },
+        {
+          "english": "Trigger",
+          "japanese": "トリガー（起動条件）",
+          "context": "Set a trigger to start the automation",
+          "related_terms": ["Event", "Start", "Condition"]
+        },
+        {
+          "english": "Template",
+          "japanese": "テンプレート（雛形）",
+          "context": "Use a template to get started quickly",
+          "related_terms": ["Sample", "Starter", "Blueprint"]
+        },
+        {
+          "english": "Component",
+          "japanese": "コンポーネント（部品）",
+          "context": "Add components to build your app",
+          "related_terms": ["Widget", "Element", "Block"]
+        },
+        {
+          "english": "Publish",
+          "japanese": "公開",
+          "context": "Publish your app to make it live",
+          "related_terms": ["Deploy", "Release", "Share"]
+        },
+        {
+          "english": "Form",
+          "japanese": "フォーム（入力画面）",
+          "context": "Create a form to collect user input",
+          "related_terms": ["Input", "Field", "Submit"]
+        },
+        {
+          "english": "View",
+          "japanese": "ビュー（表示画面）",
+          "context": "Switch to the list view",
+          "related_terms": ["Display", "Screen", "Layout"]
+        },
+        {
+          "english": "Filter",
+          "japanese": "フィルター（絞り込み）",
+          "context": "Apply filters to show specific records",
+          "related_terms": ["Search", "Query", "Condition"]
+        }
+      ]
+    }
+  ]
+}

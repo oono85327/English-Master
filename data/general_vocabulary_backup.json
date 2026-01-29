@@ -1,0 +1,580 @@
+{
+  "categories": [
+    {
+      "name": "中学レベル基礎単語 - 動詞",
+      "icon": "📝",
+      "terms": [
+        {
+          "english": "achieve",
+          "japanese": "達成する",
+          "example": "We achieved our goal.",
+          "level": "basic"
+        },
+        {
+          "english": "allow",
+          "japanese": "許可する、可能にする",
+          "example": "This tool allows you to edit files.",
+          "level": "basic"
+        },
+        {
+          "english": "appear",
+          "japanese": "現れる、〜のように見える",
+          "example": "A message appears on the screen.",
+          "level": "basic"
+        },
+        {
+          "english": "apply",
+          "japanese": "適用する、応募する",
+          "example": "Apply the changes to save them.",
+          "level": "basic"
+        },
+        {
+          "english": "approach",
+          "japanese": "近づく、アプローチする",
+          "example": "We need a different approach.",
+          "level": "basic"
+        },
+        {
+          "english": "assume",
+          "japanese": "仮定する、思い込む",
+          "example": "Don't assume it will work.",
+          "level": "basic"
+        },
+        {
+          "english": "attach",
+          "japanese": "添付する、取り付ける",
+          "example": "Please attach the file to the email.",
+          "level": "basic"
+        },
+        {
+          "english": "avoid",
+          "japanese": "避ける",
+          "example": "Avoid using this method.",
+          "level": "basic"
+        },
+        {
+          "english": "cancel",
+          "japanese": "キャンセルする、取り消す",
+          "example": "Cancel the operation if needed.",
+          "level": "basic"
+        },
+        {
+          "english": "complete",
+          "japanese": "完了する、完成させる",
+          "example": "Complete the form and submit.",
+          "level": "basic"
+        },
+        {
+          "english": "confirm",
+          "japanese": "確認する",
+          "example": "Please confirm your email address.",
+          "level": "basic"
+        },
+        {
+          "english": "consider",
+          "japanese": "検討する、考慮する",
+          "example": "We should consider other options.",
+          "level": "basic"
+        },
+        {
+          "english": "contain",
+          "japanese": "含む",
+          "example": "The file contains important data.",
+          "level": "basic"
+        },
+        {
+          "english": "define",
+          "japanese": "定義する",
+          "example": "Define the requirements clearly.",
+          "level": "basic"
+        },
+        {
+          "english": "demonstrate",
+          "japanese": "実証する、示す",
+          "example": "This example demonstrates the concept.",
+          "level": "basic"
+        }
+      ]
+    },
+    {
+      "name": "中学レベル基礎単語 - 形容詞",
+      "icon": "✨",
+      "terms": [
+        {
+          "english": "available",
+          "japanese": "利用可能な",
+          "example": "This feature is now available.",
+          "level": "basic"
+        },
+        {
+          "english": "common",
+          "japanese": "一般的な、共通の",
+          "example": "This is a common mistake.",
+          "level": "basic"
+        },
+        {
+          "english": "current",
+          "japanese": "現在の",
+          "example": "Check the current status.",
+          "level": "basic"
+        },
+        {
+          "english": "different",
+          "japanese": "異なる",
+          "example": "Try a different approach.",
+          "level": "basic"
+        },
+        {
+          "english": "effective",
+          "japanese": "効果的な",
+          "example": "This is an effective solution.",
+          "level": "basic"
+        },
+        {
+          "english": "efficient",
+          "japanese": "効率的な",
+          "example": "Use an efficient algorithm.",
+          "level": "basic"
+        },
+        {
+          "english": "entire",
+          "japanese": "全体の",
+          "example": "Delete the entire folder.",
+          "level": "basic"
+        },
+        {
+          "english": "essential",
+          "japanese": "不可欠な、必須の",
+          "example": "This step is essential.",
+          "level": "basic"
+        },
+        {
+          "english": "obvious",
+          "japanese": "明白な",
+          "example": "The answer is obvious.",
+          "level": "basic"
+        },
+        {
+          "english": "previous",
+          "japanese": "前の",
+          "example": "Restore the previous version.",
+          "level": "basic"
+        },
+        {
+          "english": "primary",
+          "japanese": "主要な",
+          "example": "This is the primary concern.",
+          "level": "basic"
+        },
+        {
+          "english": "relevant",
+          "japanese": "関連する",
+          "example": "Find relevant information.",
+          "level": "basic"
+        },
+        {
+          "english": "significant",
+          "japanese": "重要な、著しい",
+          "example": "This is a significant change.",
+          "level": "basic"
+        },
+        {
+          "english": "specific",
+          "japanese": "特定の、具体的な",
+          "example": "Provide specific details.",
+          "level": "basic"
+        },
+        {
+          "english": "sufficient",
+          "japanese": "十分な",
+          "example": "Do we have sufficient resources?",
+          "level": "basic"
+        }
+      ]
+    },
+    {
+      "name": "ビジネス英語 - 会議・コミュニケーション",
+      "icon": "💼",
+      "terms": [
+        {
+          "english": "agenda",
+          "japanese": "議題、予定",
+          "example": "Let's review the meeting agenda.",
+          "level": "business"
+        },
+        {
+          "english": "align",
+          "japanese": "整合させる、足並みを揃える",
+          "example": "We need to align our strategy.",
+          "level": "business"
+        },
+        {
+          "english": "clarify",
+          "japanese": "明確にする",
+          "example": "Could you clarify that point?",
+          "level": "business"
+        },
+        {
+          "english": "collaborate",
+          "japanese": "協力する、共同作業する",
+          "example": "Let's collaborate on this project.",
+          "level": "business"
+        },
+        {
+          "english": "delegate",
+          "japanese": "委任する、代表を派遣する",
+          "example": "Delegate tasks to team members.",
+          "level": "business"
+        },
+        {
+          "english": "escalate",
+          "japanese": "エスカレートする、上位に報告する",
+          "example": "We need to escalate this issue.",
+          "level": "business"
+        },
+        {
+          "english": "facilitate",
+          "japanese": "促進する、容易にする",
+          "example": "I'll facilitate the discussion.",
+          "level": "business"
+        },
+        {
+          "english": "follow up",
+          "japanese": "フォローアップする、追跡する",
+          "example": "I'll follow up with you next week.",
+          "level": "business"
+        },
+        {
+          "english": "leverage",
+          "japanese": "活用する、てこ入れする",
+          "example": "Leverage our existing resources.",
+          "level": "business"
+        },
+        {
+          "english": "milestone",
+          "japanese": "マイルストーン、節目",
+          "example": "We've reached an important milestone.",
+          "level": "business"
+        },
+        {
+          "english": "prioritize",
+          "japanese": "優先順位をつける",
+          "example": "Let's prioritize urgent tasks.",
+          "level": "business"
+        },
+        {
+          "english": "stakeholder",
+          "japanese": "利害関係者",
+          "example": "Get feedback from stakeholders.",
+          "level": "business"
+        },
+        {
+          "english": "synergy",
+          "japanese": "シナジー、相乗効果",
+          "example": "Create synergy between teams.",
+          "level": "business"
+        },
+        {
+          "english": "touch base",
+          "japanese": "連絡を取る、確認する",
+          "example": "Let's touch base next Monday.",
+          "level": "business"
+        },
+        {
+          "english": "action item",
+          "japanese": "アクションアイテム、実行項目",
+          "example": "Here are the action items from today's meeting.",
+          "level": "business"
+        }
+      ]
+    },
+    {
+      "name": "エンジニア技術用語",
+      "icon": "⚙️",
+      "terms": [
+        {
+          "english": "authenticate",
+          "japanese": "認証する",
+          "example": "Authenticate users before granting access.",
+          "level": "technical"
+        },
+        {
+          "english": "bottleneck",
+          "japanese": "ボトルネック、性能上の障害",
+          "example": "Identify performance bottlenecks.",
+          "level": "technical"
+        },
+        {
+          "english": "compile",
+          "japanese": "コンパイルする",
+          "example": "Compile the code before running.",
+          "level": "technical"
+        },
+        {
+          "english": "deprecated",
+          "japanese": "非推奨の、廃止予定の",
+          "example": "This method is deprecated.",
+          "level": "technical"
+        },
+        {
+          "english": "integrate",
+          "japanese": "統合する",
+          "example": "Integrate the new API.",
+          "level": "technical"
+        },
+        {
+          "english": "iterate",
+          "japanese": "反復する、繰り返す",
+          "example": "Iterate over the array.",
+          "level": "technical"
+        },
+        {
+          "english": "optimize",
+          "japanese": "最適化する",
+          "example": "Optimize the database queries.",
+          "level": "technical"
+        },
+        {
+          "english": "parse",
+          "japanese": "解析する、パースする",
+          "example": "Parse the JSON data.",
+          "level": "technical"
+        },
+        {
+          "english": "refactor",
+          "japanese": "リファクタリングする",
+          "example": "Refactor the legacy code.",
+          "level": "technical"
+        },
+        {
+          "english": "render",
+          "japanese": "描画する、レンダリングする",
+          "example": "Render the component on the page.",
+          "level": "technical"
+        },
+        {
+          "english": "scalable",
+          "japanese": "スケーラブルな、拡張可能な",
+          "example": "Build a scalable architecture.",
+          "level": "technical"
+        },
+        {
+          "english": "throttle",
+          "japanese": "調整する、制限する",
+          "example": "Throttle API requests.",
+          "level": "technical"
+        },
+        {
+          "english": "validate",
+          "japanese": "検証する、妥当性を確認する",
+          "example": "Validate user input.",
+          "level": "technical"
+        },
+        {
+          "english": "asynchronous",
+          "japanese": "非同期の",
+          "example": "Use asynchronous processing.",
+          "level": "technical"
+        },
+        {
+          "english": "dependency",
+          "japanese": "依存関係",
+          "example": "Install project dependencies.",
+          "level": "technical"
+        }
+      ]
+    },
+    {
+      "name": "英熟語・イディオム",
+      "icon": "💬",
+      "terms": [
+        {
+          "english": "at the end of the day",
+          "japanese": "結局のところ、要するに",
+          "example": "At the end of the day, it's your decision.",
+          "level": "idiom"
+        },
+        {
+          "english": "back to the drawing board",
+          "japanese": "振り出しに戻る",
+          "example": "The plan failed, so it's back to the drawing board.",
+          "level": "idiom"
+        },
+        {
+          "english": "ball is in your court",
+          "japanese": "あなたの番です、判断はあなた次第",
+          "example": "I've done my part. The ball is in your court now.",
+          "level": "idiom"
+        },
+        {
+          "english": "bring to the table",
+          "japanese": "提供する、もたらす",
+          "example": "What can you bring to the table?",
+          "level": "idiom"
+        },
+        {
+          "english": "cut to the chase",
+          "japanese": "本題に入る",
+          "example": "Let's cut to the chase.",
+          "level": "idiom"
+        },
+        {
+          "english": "get the ball rolling",
+          "japanese": "物事を始める",
+          "example": "Let's get the ball rolling on this project.",
+          "level": "idiom"
+        },
+        {
+          "english": "hit the ground running",
+          "japanese": "好スタートを切る、素早く着手する",
+          "example": "We need to hit the ground running.",
+          "level": "idiom"
+        },
+        {
+          "english": "in the loop",
+          "japanese": "情報を共有されている",
+          "example": "Keep everyone in the loop.",
+          "level": "idiom"
+        },
+        {
+          "english": "keep an eye on",
+          "japanese": "注視する、見守る",
+          "example": "Keep an eye on the metrics.",
+          "level": "idiom"
+        },
+        {
+          "english": "on the same page",
+          "japanese": "同じ認識である、意見が一致している",
+          "example": "Let's make sure we're all on the same page.",
+          "level": "idiom"
+        },
+        {
+          "english": "out of the box",
+          "japanese": "既成概念にとらわれない、すぐに使える",
+          "example": "This feature works out of the box.",
+          "level": "idiom"
+        },
+        {
+          "english": "take it with a grain of salt",
+          "japanese": "話半分に聞く、鵜呑みにしない",
+          "example": "Take his advice with a grain of salt.",
+          "level": "idiom"
+        },
+        {
+          "english": "think outside the box",
+          "japanese": "既成概念にとらわれずに考える",
+          "example": "We need to think outside the box.",
+          "level": "idiom"
+        },
+        {
+          "english": "up in the air",
+          "japanese": "未定の、はっきりしない",
+          "example": "The schedule is still up in the air.",
+          "level": "idiom"
+        },
+        {
+          "english": "win-win situation",
+          "japanese": "双方にとって有益な状況",
+          "example": "This is a win-win situation for both teams.",
+          "level": "idiom"
+        }
+      ]
+    },
+    {
+      "name": "ビジネス英語 - メール・文書",
+      "icon": "📧",
+      "terms": [
+        {
+          "english": "acknowledge",
+          "japanese": "認める、受領を知らせる",
+          "example": "I acknowledge receipt of your email.",
+          "level": "business"
+        },
+        {
+          "english": "as per",
+          "japanese": "〜に従って、〜の通り",
+          "example": "As per your request, here is the report.",
+          "level": "business"
+        },
+        {
+          "english": "attached herewith",
+          "japanese": "添付の通り",
+          "example": "Please find the document attached herewith.",
+          "level": "business"
+        },
+        {
+          "english": "at your earliest convenience",
+          "japanese": "できるだけ早く、ご都合のよい時に",
+          "example": "Please reply at your earliest convenience.",
+          "level": "business"
+        },
+        {
+          "english": "FYI (For Your Information)",
+          "japanese": "ご参考まで",
+          "example": "FYI, the meeting has been rescheduled.",
+          "level": "business"
+        },
+        {
+          "english": "keep me posted",
+          "japanese": "状況を知らせてください",
+          "example": "Please keep me posted on the progress.",
+          "level": "business"
+        },
+        {
+          "english": "look forward to",
+          "japanese": "楽しみにしている",
+          "example": "I look forward to hearing from you.",
+          "level": "business"
+        },
+        {
+          "english": "please be advised",
+          "japanese": "お知らせします、ご了承ください",
+          "example": "Please be advised that the office will be closed.",
+          "level": "business"
+        },
+        {
+          "english": "reach out",
+          "japanese": "連絡を取る",
+          "example": "Feel free to reach out if you have questions.",
+          "level": "business"
+        },
+        {
+          "english": "regarding",
+          "japanese": "〜に関して",
+          "example": "Regarding your inquiry, here is the information.",
+          "level": "business"
+        },
+        {
+          "english": "would appreciate",
+          "japanese": "ありがたい、感謝します",
+          "example": "I would appreciate your prompt response.",
+          "level": "business"
+        },
+        {
+          "english": "per your request",
+          "japanese": "ご依頼の通り",
+          "example": "Per your request, I've attached the files.",
+          "level": "business"
+        },
+        {
+          "english": "loop in",
+          "japanese": "情報を共有する、参加させる",
+          "example": "Let me loop in the project manager.",
+          "level": "business"
+        },
+        {
+          "english": "circle back",
+          "japanese": "後で戻る、再度確認する",
+          "example": "Let me circle back on this next week.",
+          "level": "business"
+        },
+        {
+          "english": "heads up",
+          "japanese": "事前に知らせる、注意喚起",
+          "example": "Just a heads up - the deadline is tomorrow.",
+          "level": "business"
+        }
+      ]
+    }
+  ]
+}

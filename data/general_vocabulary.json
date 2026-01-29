@@ -1,0 +1,6094 @@
+{
+  "categories": [
+    {
+      "name": "中学レベル基礎単語 - 動詞",
+      "icon": "📝",
+      "terms": [
+        {
+          "english": "achieve",
+          "japanese": "達成する",
+          "example": "We achieved our goal.",
+          "level": "basic"
+        },
+        {
+          "english": "allow",
+          "japanese": "許可する、可能にする",
+          "example": "This tool allows you to edit files.",
+          "level": "basic"
+        },
+        {
+          "english": "appear",
+          "japanese": "現れる、〜のように見える",
+          "example": "A message appears on the screen.",
+          "level": "basic"
+        },
+        {
+          "english": "apply",
+          "japanese": "適用する、応募する",
+          "example": "Apply the changes to save them.",
+          "level": "basic"
+        },
+        {
+          "english": "approach",
+          "japanese": "近づく、アプローチする",
+          "example": "We need a different approach.",
+          "level": "basic"
+        },
+        {
+          "english": "assume",
+          "japanese": "仮定する、思い込む",
+          "example": "Don't assume it will work.",
+          "level": "basic"
+        },
+        {
+          "english": "attach",
+          "japanese": "添付する、取り付ける",
+          "example": "Please attach the file to the email.",
+          "level": "basic"
+        },
+        {
+          "english": "avoid",
+          "japanese": "避ける",
+          "example": "Avoid using this method.",
+          "level": "basic"
+        },
+        {
+          "english": "cancel",
+          "japanese": "キャンセルする、取り消す",
+          "example": "Cancel the operation if needed.",
+          "level": "basic"
+        },
+        {
+          "english": "complete",
+          "japanese": "完了する、完成させる",
+          "example": "Complete the form and submit.",
+          "level": "basic"
+        },
+        {
+          "english": "confirm",
+          "japanese": "確認する",
+          "example": "Please confirm your email address.",
+          "level": "basic"
+        },
+        {
+          "english": "consider",
+          "japanese": "検討する、考慮する",
+          "example": "We should consider other options.",
+          "level": "basic"
+        },
+        {
+          "english": "contain",
+          "japanese": "含む",
+          "example": "The file contains important data.",
+          "level": "basic"
+        },
+        {
+          "english": "define",
+          "japanese": "定義する",
+          "example": "Define the requirements clearly.",
+          "level": "basic"
+        },
+        {
+          "english": "demonstrate",
+          "japanese": "実証する、示す",
+          "example": "This example demonstrates the concept.",
+          "level": "basic"
+        },
+        {
+          "english": "develop",
+          "japanese": "開発する、発展させる",
+          "example": "Develop a new feature.",
+          "level": "basic"
+        },
+        {
+          "english": "discover",
+          "japanese": "発見する",
+          "example": "We discovered a bug in the code.",
+          "level": "basic"
+        },
+        {
+          "english": "establish",
+          "japanese": "確立する、設立する",
+          "example": "Establish clear guidelines.",
+          "level": "basic"
+        },
+        {
+          "english": "examine",
+          "japanese": "調べる、検査する",
+          "example": "Examine the data carefully.",
+          "level": "basic"
+        },
+        {
+          "english": "exist",
+          "japanese": "存在する",
+          "example": "The file already exists.",
+          "level": "basic"
+        },
+        {
+          "english": "accept",
+          "japanese": "受け入れる",
+          "example": "Accept the terms.",
+          "level": "basic"
+        },
+        {
+          "english": "acquire",
+          "japanese": "獲得する",
+          "example": "Acquire skills.",
+          "level": "basic"
+        },
+        {
+          "english": "adapt",
+          "japanese": "適応する",
+          "example": "Adapt to change.",
+          "level": "basic"
+        },
+        {
+          "english": "adjust",
+          "japanese": "調整する",
+          "example": "Adjust settings.",
+          "level": "basic"
+        },
+        {
+          "english": "allocate",
+          "japanese": "割り当てる",
+          "example": "Allocate resources.",
+          "level": "basic"
+        },
+        {
+          "english": "analyze",
+          "japanese": "分析する",
+          "example": "Analyze data.",
+          "level": "basic"
+        },
+        {
+          "english": "arrange",
+          "japanese": "手配する",
+          "example": "Arrange meeting.",
+          "level": "basic"
+        },
+        {
+          "english": "assess",
+          "japanese": "評価する",
+          "example": "Assess quality.",
+          "level": "basic"
+        },
+        {
+          "english": "assign",
+          "japanese": "割り当てる",
+          "example": "Assign tasks.",
+          "level": "basic"
+        },
+        {
+          "english": "assist",
+          "japanese": "援助する",
+          "example": "Assist users.",
+          "level": "basic"
+        },
+        {
+          "english": "calculate",
+          "japanese": "計算する",
+          "example": "Calculate total.",
+          "level": "basic"
+        },
+        {
+          "english": "capture",
+          "japanese": "捕える",
+          "example": "Capture image.",
+          "level": "basic"
+        },
+        {
+          "english": "classify",
+          "japanese": "分類する",
+          "example": "Classify items.",
+          "level": "basic"
+        },
+        {
+          "english": "combine",
+          "japanese": "結合する",
+          "example": "Combine elements.",
+          "level": "basic"
+        },
+        {
+          "english": "communicate",
+          "japanese": "伝達する",
+          "example": "Communicate clearly.",
+          "level": "basic"
+        },
+        {
+          "english": "compare",
+          "japanese": "比較する",
+          "example": "Compare options.",
+          "level": "basic"
+        },
+        {
+          "english": "concentrate",
+          "japanese": "集中する",
+          "example": "Concentrate on work.",
+          "level": "basic"
+        },
+        {
+          "english": "conduct",
+          "japanese": "行う",
+          "example": "Conduct test.",
+          "level": "basic"
+        },
+        {
+          "english": "connect",
+          "japanese": "接続する",
+          "example": "Connect devices.",
+          "level": "basic"
+        },
+        {
+          "english": "construct",
+          "japanese": "構築する",
+          "example": "Construct system.",
+          "level": "basic"
+        },
+        {
+          "english": "contribute",
+          "japanese": "貢献する",
+          "example": "Contribute ideas.",
+          "level": "basic"
+        },
+        {
+          "english": "convert",
+          "japanese": "変換する",
+          "example": "Convert format.",
+          "level": "basic"
+        },
+        {
+          "english": "create",
+          "japanese": "作成する",
+          "example": "Create file.",
+          "level": "basic"
+        },
+        {
+          "english": "customize",
+          "japanese": "カスタマイズ",
+          "example": "Customize UI.",
+          "level": "basic"
+        },
+        {
+          "english": "decrease",
+          "japanese": "減少する",
+          "example": "Decrease size.",
+          "level": "basic"
+        },
+        {
+          "english": "delete",
+          "japanese": "削除する",
+          "example": "Delete file.",
+          "level": "basic"
+        },
+        {
+          "english": "detect",
+          "japanese": "検出する",
+          "example": "Detect error.",
+          "level": "basic"
+        },
+        {
+          "english": "determine",
+          "japanese": "決定する",
+          "example": "Determine cause.",
+          "level": "basic"
+        },
+        {
+          "english": "disable",
+          "japanese": "無効化",
+          "example": "Disable feature.",
+          "level": "basic"
+        },
+        {
+          "english": "display",
+          "japanese": "表示する",
+          "example": "Display info.",
+          "level": "basic"
+        },
+        {
+          "english": "belong",
+          "japanese": "所属する",
+          "example": "This file belongs to the project.",
+          "level": "basic"
+        },
+        {
+          "english": "benefit",
+          "japanese": "利益を得る",
+          "example": "Everyone benefits from this change.",
+          "level": "basic"
+        },
+        {
+          "english": "cause",
+          "japanese": "引き起こす",
+          "example": "This can cause errors.",
+          "level": "basic"
+        },
+        {
+          "english": "claim",
+          "japanese": "主張する",
+          "example": "They claim it's secure.",
+          "level": "basic"
+        },
+        {
+          "english": "concern",
+          "japanese": "関係する、心配する",
+          "example": "This concerns all users.",
+          "level": "basic"
+        },
+        {
+          "english": "consist",
+          "japanese": "成り立つ",
+          "example": "The system consists of modules.",
+          "level": "basic"
+        },
+        {
+          "english": "continue",
+          "japanese": "続ける",
+          "example": "Continue to the next step.",
+          "level": "basic"
+        },
+        {
+          "english": "control",
+          "japanese": "制御する",
+          "example": "Control the flow of data.",
+          "level": "basic"
+        },
+        {
+          "english": "copy",
+          "japanese": "コピーする",
+          "example": "Copy the file to backup.",
+          "level": "basic"
+        },
+        {
+          "english": "count",
+          "japanese": "数える",
+          "example": "Count the number of items.",
+          "level": "basic"
+        },
+        {
+          "english": "damage",
+          "japanese": "損傷する",
+          "example": "Don't damage the database.",
+          "level": "basic"
+        },
+        {
+          "english": "debug",
+          "japanese": "デバッグする",
+          "example": "Debug the application.",
+          "level": "basic"
+        },
+        {
+          "english": "deny",
+          "japanese": "拒否する",
+          "example": "Access was denied.",
+          "level": "basic"
+        },
+        {
+          "english": "depend",
+          "japanese": "依存する",
+          "example": "It depends on the version.",
+          "level": "basic"
+        },
+        {
+          "english": "describe",
+          "japanese": "説明する",
+          "example": "Describe the issue.",
+          "level": "basic"
+        },
+        {
+          "english": "deserve",
+          "japanese": "値する",
+          "example": "You deserve credit for this.",
+          "level": "basic"
+        },
+        {
+          "english": "differ",
+          "japanese": "異なる",
+          "example": "Results may differ.",
+          "level": "basic"
+        },
+        {
+          "english": "dismiss",
+          "japanese": "却下する",
+          "example": "Don't dismiss the idea.",
+          "level": "basic"
+        },
+        {
+          "english": "drag",
+          "japanese": "ドラッグする",
+          "example": "Drag the file here.",
+          "level": "basic"
+        },
+        {
+          "english": "drop",
+          "japanese": "落とす",
+          "example": "Drop the item.",
+          "level": "basic"
+        },
+        {
+          "english": "emerge",
+          "japanese": "出現する",
+          "example": "Issues may emerge.",
+          "level": "basic"
+        },
+        {
+          "english": "emphasize",
+          "japanese": "強調する",
+          "example": "Emphasize important points.",
+          "level": "basic"
+        },
+        {
+          "english": "employ",
+          "japanese": "使用する",
+          "example": "Employ best practices.",
+          "level": "basic"
+        },
+        {
+          "english": "enable",
+          "japanese": "有効にする",
+          "example": "Enable this feature.",
+          "level": "basic"
+        },
+        {
+          "english": "enforce",
+          "japanese": "強制する",
+          "example": "Enforce the rules.",
+          "level": "basic"
+        },
+        {
+          "english": "enhance",
+          "japanese": "強化する",
+          "example": "Enhance performance.",
+          "level": "basic"
+        }
+      ]
+    },
+    {
+      "name": "中学レベル基礎単語 - 形容詞",
+      "icon": "✨",
+      "terms": [
+        {
+          "english": "available",
+          "japanese": "利用可能な",
+          "example": "This feature is now available.",
+          "level": "basic"
+        },
+        {
+          "english": "common",
+          "japanese": "一般的な、共通の",
+          "example": "This is a common mistake.",
+          "level": "basic"
+        },
+        {
+          "english": "current",
+          "japanese": "現在の",
+          "example": "Check the current status.",
+          "level": "basic"
+        },
+        {
+          "english": "different",
+          "japanese": "異なる",
+          "example": "Try a different approach.",
+          "level": "basic"
+        },
+        {
+          "english": "effective",
+          "japanese": "効果的な",
+          "example": "This is an effective solution.",
+          "level": "basic"
+        },
+        {
+          "english": "efficient",
+          "japanese": "効率的な",
+          "example": "Use an efficient algorithm.",
+          "level": "basic"
+        },
+        {
+          "english": "entire",
+          "japanese": "全体の",
+          "example": "Delete the entire folder.",
+          "level": "basic"
+        },
+        {
+          "english": "essential",
+          "japanese": "不可欠な、必須の",
+          "example": "This step is essential.",
+          "level": "basic"
+        },
+        {
+          "english": "obvious",
+          "japanese": "明白な",
+          "example": "The answer is obvious.",
+          "level": "basic"
+        },
+        {
+          "english": "previous",
+          "japanese": "前の",
+          "example": "Restore the previous version.",
+          "level": "basic"
+        },
+        {
+          "english": "primary",
+          "japanese": "主要な",
+          "example": "This is the primary concern.",
+          "level": "basic"
+        },
+        {
+          "english": "relevant",
+          "japanese": "関連する",
+          "example": "Find relevant information.",
+          "level": "basic"
+        },
+        {
+          "english": "significant",
+          "japanese": "重要な、著しい",
+          "example": "This is a significant change.",
+          "level": "basic"
+        },
+        {
+          "english": "specific",
+          "japanese": "特定の、具体的な",
+          "example": "Provide specific details.",
+          "level": "basic"
+        },
+        {
+          "english": "sufficient",
+          "japanese": "十分な",
+          "example": "Do we have sufficient resources?",
+          "level": "basic"
+        },
+        {
+          "english": "appropriate",
+          "japanese": "適切な",
+          "example": "Choose an appropriate method.",
+          "level": "basic"
+        },
+        {
+          "english": "capable",
+          "japanese": "能力がある",
+          "example": "She is capable of handling this.",
+          "level": "basic"
+        },
+        {
+          "english": "consistent",
+          "japanese": "一貫した",
+          "example": "Maintain a consistent style.",
+          "level": "basic"
+        },
+        {
+          "english": "frequent",
+          "japanese": "頻繁な",
+          "example": "This is a frequent issue.",
+          "level": "basic"
+        },
+        {
+          "english": "particular",
+          "japanese": "特定の、特別な",
+          "example": "Pay attention to this particular case.",
+          "level": "basic"
+        },
+        {
+          "english": "accurate",
+          "japanese": "正確な",
+          "example": "Accurate data.",
+          "level": "basic"
+        },
+        {
+          "english": "active",
+          "japanese": "アクティブ",
+          "example": "Active session.",
+          "level": "basic"
+        },
+        {
+          "english": "additional",
+          "japanese": "追加の",
+          "example": "Additional info.",
+          "level": "basic"
+        },
+        {
+          "english": "advanced",
+          "japanese": "高度な",
+          "example": "Advanced features.",
+          "level": "basic"
+        },
+        {
+          "english": "alternative",
+          "japanese": "代替の",
+          "example": "Alternative solution.",
+          "level": "basic"
+        },
+        {
+          "english": "automatic",
+          "japanese": "自動の",
+          "example": "Automatic update.",
+          "level": "basic"
+        },
+        {
+          "english": "basic",
+          "japanese": "基本的な",
+          "example": "Basic concept.",
+          "level": "basic"
+        },
+        {
+          "english": "clear",
+          "japanese": "明確な",
+          "example": "Clear instruction.",
+          "level": "basic"
+        },
+        {
+          "english": "complete",
+          "japanese": "完全な",
+          "example": "Complete guide.",
+          "level": "basic"
+        },
+        {
+          "english": "complex",
+          "japanese": "複雑な",
+          "example": "Complex problem.",
+          "level": "basic"
+        },
+        {
+          "english": "critical",
+          "japanese": "重大な",
+          "example": "Critical issue.",
+          "level": "basic"
+        },
+        {
+          "english": "detailed",
+          "japanese": "詳細な",
+          "example": "Detailed report.",
+          "level": "basic"
+        },
+        {
+          "english": "direct",
+          "japanese": "直接の",
+          "example": "Direct access.",
+          "level": "basic"
+        },
+        {
+          "english": "empty",
+          "japanese": "空の",
+          "example": "Empty field.",
+          "level": "basic"
+        },
+        {
+          "english": "equal",
+          "japanese": "等しい",
+          "example": "Equal parts.",
+          "level": "basic"
+        },
+        {
+          "english": "exact",
+          "japanese": "正確な",
+          "example": "Exact value.",
+          "level": "basic"
+        },
+        {
+          "english": "existing",
+          "japanese": "既存の",
+          "example": "Existing data.",
+          "level": "basic"
+        },
+        {
+          "english": "external",
+          "japanese": "外部の",
+          "example": "External link.",
+          "level": "basic"
+        },
+        {
+          "english": "final",
+          "japanese": "最終的な",
+          "example": "Final version.",
+          "level": "basic"
+        },
+        {
+          "english": "fixed",
+          "japanese": "固定の",
+          "example": "Fixed price.",
+          "level": "basic"
+        },
+        {
+          "english": "flexible",
+          "japanese": "柔軟な",
+          "example": "Flexible plan.",
+          "level": "basic"
+        },
+        {
+          "english": "formal",
+          "japanese": "正式な",
+          "example": "Formal request.",
+          "level": "basic"
+        },
+        {
+          "english": "full",
+          "japanese": "完全な",
+          "example": "Full screen.",
+          "level": "basic"
+        },
+        {
+          "english": "general",
+          "japanese": "一般的な",
+          "example": "General rule.",
+          "level": "basic"
+        },
+        {
+          "english": "global",
+          "japanese": "グローバル",
+          "example": "Global setting.",
+          "level": "basic"
+        },
+        {
+          "english": "immediate",
+          "japanese": "即座の",
+          "example": "Immediate action.",
+          "level": "basic"
+        },
+        {
+          "english": "important",
+          "japanese": "重要な",
+          "example": "Important task.",
+          "level": "basic"
+        },
+        {
+          "english": "independent",
+          "japanese": "独立した",
+          "example": "Independent module.",
+          "level": "basic"
+        },
+        {
+          "english": "initial",
+          "japanese": "最初の",
+          "example": "Initial setup.",
+          "level": "basic"
+        },
+        {
+          "english": "internal",
+          "japanese": "内部の",
+          "example": "Internal process.",
+          "level": "basic"
+        },
+        {
+          "english": "incorrect",
+          "japanese": "正しくない",
+          "example": "The value is incorrect.",
+          "level": "basic"
+        },
+        {
+          "english": "instant",
+          "japanese": "即座の",
+          "example": "Get instant results.",
+          "level": "basic"
+        },
+        {
+          "english": "interactive",
+          "japanese": "インタラクティブな",
+          "example": "An interactive tutorial.",
+          "level": "basic"
+        },
+        {
+          "english": "large",
+          "japanese": "大きい",
+          "example": "A large dataset.",
+          "level": "basic"
+        },
+        {
+          "english": "latest",
+          "japanese": "最新の",
+          "example": "Use the latest version.",
+          "level": "basic"
+        },
+        {
+          "english": "limited",
+          "japanese": "制限された",
+          "example": "Limited access available.",
+          "level": "basic"
+        },
+        {
+          "english": "live",
+          "japanese": "ライブの",
+          "example": "The live environment.",
+          "level": "basic"
+        },
+        {
+          "english": "local",
+          "japanese": "ローカルの",
+          "example": "Save to local storage.",
+          "level": "basic"
+        },
+        {
+          "english": "locked",
+          "japanese": "ロックされた",
+          "example": "The file is locked.",
+          "level": "basic"
+        },
+        {
+          "english": "logical",
+          "japanese": "論理的な",
+          "example": "A logical structure.",
+          "level": "basic"
+        },
+        {
+          "english": "main",
+          "japanese": "主要な",
+          "example": "The main function.",
+          "level": "basic"
+        },
+        {
+          "english": "major",
+          "japanese": "主要な",
+          "example": "A major update.",
+          "level": "basic"
+        },
+        {
+          "english": "manual",
+          "japanese": "手動の",
+          "example": "Manual configuration required.",
+          "level": "basic"
+        },
+        {
+          "english": "maximum",
+          "japanese": "最大の",
+          "example": "Maximum file size.",
+          "level": "basic"
+        },
+        {
+          "english": "minimum",
+          "japanese": "最小の",
+          "example": "Minimum requirements.",
+          "level": "basic"
+        },
+        {
+          "english": "minor",
+          "japanese": "軽微な",
+          "example": "A minor bug fix.",
+          "level": "basic"
+        },
+        {
+          "english": "missing",
+          "japanese": "欠けている",
+          "example": "Missing dependencies.",
+          "level": "basic"
+        },
+        {
+          "english": "modified",
+          "japanese": "変更された",
+          "example": "Modified files only.",
+          "level": "basic"
+        },
+        {
+          "english": "multiple",
+          "japanese": "複数の",
+          "example": "Multiple options available.",
+          "level": "basic"
+        },
+        {
+          "english": "native",
+          "japanese": "ネイティブの",
+          "example": "Native support included.",
+          "level": "basic"
+        },
+        {
+          "english": "necessary",
+          "japanese": "必要な",
+          "example": "This step is necessary.",
+          "level": "basic"
+        },
+        {
+          "english": "negative",
+          "japanese": "負の",
+          "example": "Negative impact.",
+          "level": "basic"
+        },
+        {
+          "english": "neutral",
+          "japanese": "中立的な",
+          "example": "A neutral position.",
+          "level": "basic"
+        },
+        {
+          "english": "next",
+          "japanese": "次の",
+          "example": "The next version.",
+          "level": "basic"
+        },
+        {
+          "english": "normal",
+          "japanese": "通常の",
+          "example": "Normal operation.",
+          "level": "basic"
+        },
+        {
+          "english": "notable",
+          "japanese": "注目すべき",
+          "example": "Notable improvements.",
+          "level": "basic"
+        },
+        {
+          "english": "numeric",
+          "japanese": "数値の",
+          "example": "Numeric values only.",
+          "level": "basic"
+        },
+        {
+          "english": "offline",
+          "japanese": "オフラインの",
+          "example": "Offline mode.",
+          "level": "basic"
+        },
+        {
+          "english": "ongoing",
+          "japanese": "進行中の",
+          "example": "Ongoing development.",
+          "level": "basic"
+        },
+        {
+          "english": "online",
+          "japanese": "オンラインの",
+          "example": "Online documentation.",
+          "level": "basic"
+        },
+        {
+          "english": "open",
+          "japanese": "開いている",
+          "example": "Open source project.",
+          "level": "basic"
+        },
+        {
+          "english": "optimal",
+          "japanese": "最適な",
+          "example": "Optimal settings.",
+          "level": "basic"
+        }
+      ]
+    },
+    {
+      "name": "中学レベル基礎単語 - 名詞",
+      "icon": "📦",
+      "terms": [
+        {
+          "english": "access",
+          "japanese": "アクセス、接近",
+          "example": "You don't have access to this file.",
+          "level": "basic"
+        },
+        {
+          "english": "benefit",
+          "japanese": "利益、恩恵",
+          "example": "The benefit of this approach is clear.",
+          "level": "basic"
+        },
+        {
+          "english": "concept",
+          "japanese": "概念",
+          "example": "Understand the basic concept first.",
+          "level": "basic"
+        },
+        {
+          "english": "feature",
+          "japanese": "機能、特徴",
+          "example": "This feature is very useful.",
+          "level": "basic"
+        },
+        {
+          "english": "issue",
+          "japanese": "問題、課題",
+          "example": "We found an issue with the code.",
+          "level": "basic"
+        },
+        {
+          "english": "method",
+          "japanese": "方法",
+          "example": "Try a different method.",
+          "level": "basic"
+        },
+        {
+          "english": "option",
+          "japanese": "選択肢、オプション",
+          "example": "Select an option from the menu.",
+          "level": "basic"
+        },
+        {
+          "english": "process",
+          "japanese": "過程、プロセス",
+          "example": "Follow the installation process.",
+          "level": "basic"
+        },
+        {
+          "english": "resource",
+          "japanese": "リソース、資源",
+          "example": "Allocate resources efficiently.",
+          "level": "basic"
+        },
+        {
+          "english": "result",
+          "japanese": "結果",
+          "example": "Check the test results.",
+          "level": "basic"
+        },
+        {
+          "english": "section",
+          "japanese": "セクション、区分",
+          "example": "Go to the settings section.",
+          "level": "basic"
+        },
+        {
+          "english": "source",
+          "japanese": "ソース、源",
+          "example": "Open the source code.",
+          "level": "basic"
+        },
+        {
+          "english": "structure",
+          "japanese": "構造",
+          "example": "Analyze the data structure.",
+          "level": "basic"
+        },
+        {
+          "english": "system",
+          "japanese": "システム",
+          "example": "Restart the system.",
+          "level": "basic"
+        },
+        {
+          "english": "task",
+          "japanese": "タスク、作業",
+          "example": "Complete the task before deadline.",
+          "level": "basic"
+        },
+        {
+          "english": "version",
+          "japanese": "バージョン",
+          "example": "Download the latest version.",
+          "level": "basic"
+        },
+        {
+          "english": "document",
+          "japanese": "文書、ドキュメント",
+          "example": "Read the documentation first.",
+          "level": "basic"
+        },
+        {
+          "english": "error",
+          "japanese": "エラー、誤り",
+          "example": "Fix the syntax error.",
+          "level": "basic"
+        },
+        {
+          "english": "function",
+          "japanese": "機能、関数",
+          "example": "Call this function with parameters.",
+          "level": "basic"
+        },
+        {
+          "english": "variable",
+          "japanese": "変数",
+          "example": "Declare a variable.",
+          "level": "basic"
+        },
+        {
+          "english": "account",
+          "japanese": "アカウント",
+          "example": "User account.",
+          "level": "basic"
+        },
+        {
+          "english": "action",
+          "japanese": "行動",
+          "example": "Take action.",
+          "level": "basic"
+        },
+        {
+          "english": "activity",
+          "japanese": "活動",
+          "example": "User activity.",
+          "level": "basic"
+        },
+        {
+          "english": "amount",
+          "japanese": "量",
+          "example": "Total amount.",
+          "level": "basic"
+        },
+        {
+          "english": "analysis",
+          "japanese": "分析",
+          "example": "Data analysis.",
+          "level": "basic"
+        },
+        {
+          "english": "application",
+          "japanese": "アプリ",
+          "example": "Web application.",
+          "level": "basic"
+        },
+        {
+          "english": "area",
+          "japanese": "領域",
+          "example": "Work area.",
+          "level": "basic"
+        },
+        {
+          "english": "aspect",
+          "japanese": "側面",
+          "example": "Important aspect.",
+          "level": "basic"
+        },
+        {
+          "english": "attempt",
+          "japanese": "試み",
+          "example": "First attempt.",
+          "level": "basic"
+        },
+        {
+          "english": "attention",
+          "japanese": "注意",
+          "example": "Pay attention.",
+          "level": "basic"
+        },
+        {
+          "english": "attribute",
+          "japanese": "属性",
+          "example": "Data attribute.",
+          "level": "basic"
+        },
+        {
+          "english": "background",
+          "japanese": "背景",
+          "example": "Background color.",
+          "level": "basic"
+        },
+        {
+          "english": "behavior",
+          "japanese": "動作",
+          "example": "User behavior.",
+          "level": "basic"
+        },
+        {
+          "english": "button",
+          "japanese": "ボタン",
+          "example": "Click button.",
+          "level": "basic"
+        },
+        {
+          "english": "capacity",
+          "japanese": "容量",
+          "example": "Storage capacity.",
+          "level": "basic"
+        },
+        {
+          "english": "category",
+          "japanese": "カテゴリー",
+          "example": "Item category.",
+          "level": "basic"
+        },
+        {
+          "english": "change",
+          "japanese": "変更",
+          "example": "Save change.",
+          "level": "basic"
+        },
+        {
+          "english": "character",
+          "japanese": "文字",
+          "example": "Special character.",
+          "level": "basic"
+        },
+        {
+          "english": "choice",
+          "japanese": "選択",
+          "example": "User choice.",
+          "level": "basic"
+        },
+        {
+          "english": "client",
+          "japanese": "クライアント",
+          "example": "API client.",
+          "level": "basic"
+        },
+        {
+          "english": "code",
+          "japanese": "コード",
+          "example": "Source code.",
+          "level": "basic"
+        },
+        {
+          "english": "collection",
+          "japanese": "コレクション",
+          "example": "Data collection.",
+          "level": "basic"
+        },
+        {
+          "english": "column",
+          "japanese": "列",
+          "example": "Table column.",
+          "level": "basic"
+        },
+        {
+          "english": "combination",
+          "japanese": "組合せ",
+          "example": "Key combination.",
+          "level": "basic"
+        },
+        {
+          "english": "command",
+          "japanese": "コマンド",
+          "example": "Run command.",
+          "level": "basic"
+        },
+        {
+          "english": "comment",
+          "japanese": "コメント",
+          "example": "Add comment.",
+          "level": "basic"
+        },
+        {
+          "english": "component",
+          "japanese": "コンポーネント",
+          "example": "UI component.",
+          "level": "basic"
+        },
+        {
+          "english": "condition",
+          "japanese": "条件",
+          "example": "Search condition.",
+          "level": "basic"
+        },
+        {
+          "english": "configuration",
+          "japanese": "設定",
+          "example": "System config.",
+          "level": "basic"
+        },
+        {
+          "english": "connection",
+          "japanese": "接続",
+          "example": "Network connection.",
+          "level": "basic"
+        },
+        {
+          "english": "approach",
+          "japanese": "アプローチ",
+          "example": "Try a different approach.",
+          "level": "basic"
+        },
+        {
+          "english": "argument",
+          "japanese": "引数",
+          "example": "Pass the argument.",
+          "level": "basic"
+        },
+        {
+          "english": "article",
+          "japanese": "記事",
+          "example": "Read the article.",
+          "level": "basic"
+        },
+        {
+          "english": "author",
+          "japanese": "作成者",
+          "example": "The commit author.",
+          "level": "basic"
+        },
+        {
+          "english": "balance",
+          "japanese": "バランス",
+          "example": "Balance performance and cost.",
+          "level": "basic"
+        },
+        {
+          "english": "base",
+          "japanese": "基礎",
+          "example": "The code base.",
+          "level": "basic"
+        },
+        {
+          "english": "batch",
+          "japanese": "バッチ",
+          "example": "Process in batch mode.",
+          "level": "basic"
+        },
+        {
+          "english": "border",
+          "japanese": "境界",
+          "example": "Set the border width.",
+          "level": "basic"
+        },
+        {
+          "english": "buffer",
+          "japanese": "バッファ",
+          "example": "Clear the buffer.",
+          "level": "basic"
+        },
+        {
+          "english": "cause",
+          "japanese": "原因",
+          "example": "Find the root cause.",
+          "level": "basic"
+        },
+        {
+          "english": "challenge",
+          "japanese": "課題",
+          "example": "Face the challenge.",
+          "level": "basic"
+        },
+        {
+          "english": "channel",
+          "japanese": "チャネル",
+          "example": "Communication channel.",
+          "level": "basic"
+        },
+        {
+          "english": "cluster",
+          "japanese": "クラスタ",
+          "example": "Server cluster.",
+          "level": "basic"
+        },
+        {
+          "english": "community",
+          "japanese": "コミュニティ",
+          "example": "The developer community.",
+          "level": "basic"
+        },
+        {
+          "english": "comparison",
+          "japanese": "比較",
+          "example": "Make a comparison.",
+          "level": "basic"
+        },
+        {
+          "english": "conflict",
+          "japanese": "競合",
+          "example": "Resolve the conflict.",
+          "level": "basic"
+        },
+        {
+          "english": "console",
+          "japanese": "コンソール",
+          "example": "Check the console.",
+          "level": "basic"
+        },
+        {
+          "english": "constant",
+          "japanese": "定数",
+          "example": "Define a constant.",
+          "level": "basic"
+        },
+        {
+          "english": "container",
+          "japanese": "コンテナ",
+          "example": "Docker container.",
+          "level": "basic"
+        },
+        {
+          "english": "content",
+          "japanese": "内容",
+          "example": "Page content.",
+          "level": "basic"
+        },
+        {
+          "english": "context",
+          "japanese": "コンテキスト",
+          "example": "Application context.",
+          "level": "basic"
+        },
+        {
+          "english": "contract",
+          "japanese": "契約",
+          "example": "Service contract.",
+          "level": "basic"
+        }
+      ]
+    },
+    {
+      "name": "高校レベル単語 - 動詞",
+      "icon": "🎓",
+      "terms": [
+        {
+          "english": "accommodate",
+          "japanese": "収容する、適応する",
+          "example": "The system can accommodate more users.",
+          "level": "intermediate"
+        },
+        {
+          "english": "acknowledge",
+          "japanese": "認める、受領する",
+          "example": "Please acknowledge receipt of this email.",
+          "level": "intermediate"
+        },
+        {
+          "english": "acquire",
+          "japanese": "獲得する、習得する",
+          "example": "Acquire new skills through practice.",
+          "level": "intermediate"
+        },
+        {
+          "english": "adjust",
+          "japanese": "調整する",
+          "example": "Adjust the settings as needed.",
+          "level": "intermediate"
+        },
+        {
+          "english": "analyze",
+          "japanese": "分析する",
+          "example": "Analyze the performance data.",
+          "level": "intermediate"
+        },
+        {
+          "english": "anticipate",
+          "japanese": "予測する、予期する",
+          "example": "Anticipate potential problems.",
+          "level": "intermediate"
+        },
+        {
+          "english": "assess",
+          "japanese": "評価する、査定する",
+          "example": "Assess the project risks.",
+          "level": "intermediate"
+        },
+        {
+          "english": "attribute",
+          "japanese": "帰する、原因とする",
+          "example": "We attribute the success to teamwork.",
+          "level": "intermediate"
+        },
+        {
+          "english": "clarify",
+          "japanese": "明確にする",
+          "example": "Please clarify your requirements.",
+          "level": "intermediate"
+        },
+        {
+          "english": "compensate",
+          "japanese": "補償する、埋め合わせる",
+          "example": "Compensate for the delay.",
+          "level": "intermediate"
+        },
+        {
+          "english": "comprise",
+          "japanese": "〜から成る、構成する",
+          "example": "The team comprises five members.",
+          "level": "intermediate"
+        },
+        {
+          "english": "constitute",
+          "japanese": "構成する",
+          "example": "These elements constitute the framework.",
+          "level": "intermediate"
+        },
+        {
+          "english": "demonstrate",
+          "japanese": "実証する",
+          "example": "Demonstrate the new feature to users.",
+          "level": "intermediate"
+        },
+        {
+          "english": "derive",
+          "japanese": "引き出す、由来する",
+          "example": "Derive insights from the data.",
+          "level": "intermediate"
+        },
+        {
+          "english": "diminish",
+          "japanese": "減らす、減少する",
+          "example": "This will diminish the impact.",
+          "level": "intermediate"
+        },
+        {
+          "english": "eliminate",
+          "japanese": "排除する、除去する",
+          "example": "Eliminate unnecessary steps.",
+          "level": "intermediate"
+        },
+        {
+          "english": "emphasize",
+          "japanese": "強調する",
+          "example": "Emphasize the key points.",
+          "level": "intermediate"
+        },
+        {
+          "english": "enhance",
+          "japanese": "強化する、向上させる",
+          "example": "Enhance user experience.",
+          "level": "intermediate"
+        },
+        {
+          "english": "facilitate",
+          "japanese": "促進する、容易にする",
+          "example": "This tool will facilitate collaboration.",
+          "level": "intermediate"
+        },
+        {
+          "english": "implement",
+          "japanese": "実装する、実施する",
+          "example": "Implement the new policy.",
+          "level": "intermediate"
+        },
+        {
+          "english": "accelerate",
+          "japanese": "加速する",
+          "example": "Accelerate process.",
+          "level": "intermediate"
+        },
+        {
+          "english": "accumulate",
+          "japanese": "蓄積する",
+          "example": "Accumulate data.",
+          "level": "intermediate"
+        },
+        {
+          "english": "adhere",
+          "japanese": "固守する",
+          "example": "Adhere to policy.",
+          "level": "intermediate"
+        },
+        {
+          "english": "advocate",
+          "japanese": "主張する",
+          "example": "Advocate change.",
+          "level": "intermediate"
+        },
+        {
+          "english": "aggregate",
+          "japanese": "集約する",
+          "example": "Aggregate results.",
+          "level": "intermediate"
+        },
+        {
+          "english": "alternate",
+          "japanese": "交互にする",
+          "example": "Alternate methods.",
+          "level": "intermediate"
+        },
+        {
+          "english": "amplify",
+          "japanese": "増幅する",
+          "example": "Amplify signal.",
+          "level": "intermediate"
+        },
+        {
+          "english": "append",
+          "japanese": "追加する",
+          "example": "Append text.",
+          "level": "intermediate"
+        },
+        {
+          "english": "approximate",
+          "japanese": "概算する",
+          "example": "Approximate value.",
+          "level": "intermediate"
+        },
+        {
+          "english": "assert",
+          "japanese": "主張する",
+          "example": "Assert truth.",
+          "level": "intermediate"
+        },
+        {
+          "english": "augment",
+          "japanese": "増強する",
+          "example": "Augment features.",
+          "level": "intermediate"
+        },
+        {
+          "english": "automate",
+          "japanese": "自動化",
+          "example": "Automate task.",
+          "level": "intermediate"
+        },
+        {
+          "english": "bypass",
+          "japanese": "迂回する",
+          "example": "Bypass step.",
+          "level": "intermediate"
+        },
+        {
+          "english": "calibrate",
+          "japanese": "調整する",
+          "example": "Calibrate sensor.",
+          "level": "intermediate"
+        },
+        {
+          "english": "cascade",
+          "japanese": "連鎖する",
+          "example": "Cascade effect.",
+          "level": "intermediate"
+        },
+        {
+          "english": "certify",
+          "japanese": "証明する",
+          "example": "Certify quality.",
+          "level": "intermediate"
+        },
+        {
+          "english": "circulate",
+          "japanese": "循環する",
+          "example": "Circulate info.",
+          "level": "intermediate"
+        },
+        {
+          "english": "collaborate",
+          "japanese": "協力する",
+          "example": "Collaborate online.",
+          "level": "intermediate"
+        },
+        {
+          "english": "commence",
+          "japanese": "開始する",
+          "example": "Commence work.",
+          "level": "intermediate"
+        },
+        {
+          "english": "complement",
+          "japanese": "補完する",
+          "example": "Complement each other.",
+          "level": "intermediate"
+        },
+        {
+          "english": "compound",
+          "japanese": "複合する",
+          "example": "Compound effect.",
+          "level": "intermediate"
+        },
+        {
+          "english": "compress",
+          "japanese": "圧縮する",
+          "example": "Compress file.",
+          "level": "intermediate"
+        },
+        {
+          "english": "concatenate",
+          "japanese": "連結する",
+          "example": "Concatenate strings.",
+          "level": "intermediate"
+        },
+        {
+          "english": "configure",
+          "japanese": "設定する",
+          "example": "Configure system.",
+          "level": "intermediate"
+        },
+        {
+          "english": "consolidate",
+          "japanese": "統合する",
+          "example": "Consolidate data.",
+          "level": "intermediate"
+        },
+        {
+          "english": "constrain",
+          "japanese": "制約する",
+          "example": "Constrain value.",
+          "level": "intermediate"
+        },
+        {
+          "english": "consume",
+          "japanese": "消費する",
+          "example": "Consume resource.",
+          "level": "intermediate"
+        },
+        {
+          "english": "contemplate",
+          "japanese": "熟考する",
+          "example": "Contemplate option.",
+          "level": "intermediate"
+        },
+        {
+          "english": "contradict",
+          "japanese": "矛盾する",
+          "example": "Contradict statement.",
+          "level": "intermediate"
+        },
+        {
+          "english": "correlate",
+          "japanese": "相関する",
+          "example": "Correlate data.",
+          "level": "intermediate"
+        },
+        {
+          "english": "abandon",
+          "japanese": "放棄する",
+          "example": "Don't abandon the project.",
+          "level": "intermediate"
+        },
+        {
+          "english": "abstract",
+          "japanese": "抽出する",
+          "example": "Abstract the logic.",
+          "level": "intermediate"
+        },
+        {
+          "english": "administer",
+          "japanese": "管理する",
+          "example": "Administer the system.",
+          "level": "intermediate"
+        },
+        {
+          "english": "authenticate",
+          "japanese": "認証する",
+          "example": "Authenticate the user.",
+          "level": "intermediate"
+        },
+        {
+          "english": "authorize",
+          "japanese": "承認する",
+          "example": "Authorize access.",
+          "level": "intermediate"
+        },
+        {
+          "english": "benchmark",
+          "japanese": "ベンチマークする",
+          "example": "Benchmark performance.",
+          "level": "intermediate"
+        },
+        {
+          "english": "broadcast",
+          "japanese": "ブロードキャストする",
+          "example": "Broadcast the message.",
+          "level": "intermediate"
+        },
+        {
+          "english": "cache",
+          "japanese": "キャッシュする",
+          "example": "Cache frequently used data.",
+          "level": "intermediate"
+        },
+        {
+          "english": "construct",
+          "japanese": "構築する",
+          "example": "Construct the query.",
+          "level": "intermediate"
+        },
+        {
+          "english": "decompose",
+          "japanese": "分解する",
+          "example": "Decompose the problem.",
+          "level": "intermediate"
+        },
+        {
+          "english": "dedicate",
+          "japanese": "専念する",
+          "example": "Dedicate resources.",
+          "level": "intermediate"
+        },
+        {
+          "english": "defer",
+          "japanese": "延期する",
+          "example": "Defer loading.",
+          "level": "intermediate"
+        },
+        {
+          "english": "delegate",
+          "japanese": "委譲する",
+          "example": "Delegate tasks.",
+          "level": "intermediate"
+        },
+        {
+          "english": "deprecate",
+          "japanese": "非推奨にする",
+          "example": "Deprecate old APIs.",
+          "level": "intermediate"
+        },
+        {
+          "english": "designate",
+          "japanese": "指定する",
+          "example": "Designate a leader.",
+          "level": "intermediate"
+        }
+      ]
+    },
+    {
+      "name": "高校レベル単語 - 形容詞",
+      "icon": "🌟",
+      "terms": [
+        {
+          "english": "adequate",
+          "japanese": "適切な、十分な",
+          "example": "Ensure adequate security measures.",
+          "level": "intermediate"
+        },
+        {
+          "english": "alternative",
+          "japanese": "代わりの、代替の",
+          "example": "Consider alternative solutions.",
+          "level": "intermediate"
+        },
+        {
+          "english": "comprehensive",
+          "japanese": "包括的な",
+          "example": "Provide a comprehensive report.",
+          "level": "intermediate"
+        },
+        {
+          "english": "concurrent",
+          "japanese": "同時発生の",
+          "example": "Handle concurrent requests.",
+          "level": "intermediate"
+        },
+        {
+          "english": "critical",
+          "japanese": "重大な、批判的な",
+          "example": "This is a critical issue.",
+          "level": "intermediate"
+        },
+        {
+          "english": "crucial",
+          "japanese": "極めて重要な",
+          "example": "Timing is crucial for success.",
+          "level": "intermediate"
+        },
+        {
+          "english": "dominant",
+          "japanese": "支配的な、主要な",
+          "example": "The dominant factor in this decision.",
+          "level": "intermediate"
+        },
+        {
+          "english": "explicit",
+          "japanese": "明示的な",
+          "example": "Make the requirements explicit.",
+          "level": "intermediate"
+        },
+        {
+          "english": "feasible",
+          "japanese": "実行可能な",
+          "example": "Is this approach feasible?",
+          "level": "intermediate"
+        },
+        {
+          "english": "fundamental",
+          "japanese": "基本的な、根本的な",
+          "example": "Understanding fundamental concepts.",
+          "level": "intermediate"
+        },
+        {
+          "english": "implicit",
+          "japanese": "暗黙の",
+          "example": "There's an implicit assumption here.",
+          "level": "intermediate"
+        },
+        {
+          "english": "inevitable",
+          "japanese": "避けられない",
+          "example": "Change is inevitable.",
+          "level": "intermediate"
+        },
+        {
+          "english": "inherent",
+          "japanese": "固有の、本来備わった",
+          "example": "This is an inherent limitation.",
+          "level": "intermediate"
+        },
+        {
+          "english": "integral",
+          "japanese": "不可欠な、統合された",
+          "example": "This is an integral part of the system.",
+          "level": "intermediate"
+        },
+        {
+          "english": "legitimate",
+          "japanese": "正当な、合法的な",
+          "example": "This is a legitimate concern.",
+          "level": "intermediate"
+        },
+        {
+          "english": "marginal",
+          "japanese": "わずかな、限界の",
+          "example": "The improvement is marginal.",
+          "level": "intermediate"
+        },
+        {
+          "english": "mutual",
+          "japanese": "相互の",
+          "example": "This requires mutual understanding.",
+          "level": "intermediate"
+        },
+        {
+          "english": "potential",
+          "japanese": "潜在的な",
+          "example": "Identify potential risks.",
+          "level": "intermediate"
+        },
+        {
+          "english": "preliminary",
+          "japanese": "予備的な、準備の",
+          "example": "This is a preliminary version.",
+          "level": "intermediate"
+        },
+        {
+          "english": "substantial",
+          "japanese": "かなりの、実質的な",
+          "example": "We made substantial progress.",
+          "level": "intermediate"
+        },
+        {
+          "english": "absolute",
+          "japanese": "絶対的な",
+          "example": "An absolute path.",
+          "level": "intermediate"
+        },
+        {
+          "english": "abstract",
+          "japanese": "抽象的な",
+          "example": "Abstract concepts.",
+          "level": "intermediate"
+        },
+        {
+          "english": "administrative",
+          "japanese": "管理的な",
+          "example": "Administrative privileges.",
+          "level": "intermediate"
+        },
+        {
+          "english": "arbitrary",
+          "japanese": "任意の",
+          "example": "An arbitrary value.",
+          "level": "intermediate"
+        },
+        {
+          "english": "asynchronous",
+          "japanese": "非同期の",
+          "example": "Asynchronous processing.",
+          "level": "intermediate"
+        },
+        {
+          "english": "atomic",
+          "japanese": "アトミックな",
+          "example": "Atomic operations.",
+          "level": "intermediate"
+        },
+        {
+          "english": "auxiliary",
+          "japanese": "補助的な",
+          "example": "Auxiliary functions.",
+          "level": "intermediate"
+        },
+        {
+          "english": "backward",
+          "japanese": "後方の",
+          "example": "Backward compatibility.",
+          "level": "intermediate"
+        },
+        {
+          "english": "binary",
+          "japanese": "バイナリの",
+          "example": "Binary format.",
+          "level": "intermediate"
+        },
+        {
+          "english": "bulk",
+          "japanese": "一括の",
+          "example": "Bulk operations.",
+          "level": "intermediate"
+        },
+        {
+          "english": "cached",
+          "japanese": "キャッシュされた",
+          "example": "Cached results.",
+          "level": "intermediate"
+        },
+        {
+          "english": "circular",
+          "japanese": "循環的な",
+          "example": "Circular dependency.",
+          "level": "intermediate"
+        },
+        {
+          "english": "coherent",
+          "japanese": "一貫性のある",
+          "example": "Coherent data.",
+          "level": "intermediate"
+        },
+        {
+          "english": "compatible",
+          "japanese": "互換性のある",
+          "example": "Compatible versions.",
+          "level": "intermediate"
+        },
+        {
+          "english": "composite",
+          "japanese": "複合的な",
+          "example": "A composite key.",
+          "level": "intermediate"
+        },
+        {
+          "english": "conditional",
+          "japanese": "条件付きの",
+          "example": "Conditional logic.",
+          "level": "intermediate"
+        },
+        {
+          "english": "consecutive",
+          "japanese": "連続的な",
+          "example": "Consecutive numbers.",
+          "level": "intermediate"
+        },
+        {
+          "english": "consistent",
+          "japanese": "一貫した",
+          "example": "Consistent state.",
+          "level": "intermediate"
+        },
+        {
+          "english": "constant",
+          "japanese": "定数の",
+          "example": "A constant value.",
+          "level": "intermediate"
+        },
+        {
+          "english": "conventional",
+          "japanese": "慣習的な",
+          "example": "Conventional naming.",
+          "level": "intermediate"
+        },
+        {
+          "english": "corresponding",
+          "japanese": "対応する",
+          "example": "The corresponding value.",
+          "level": "intermediate"
+        },
+        {
+          "english": "cumulative",
+          "japanese": "累積的な",
+          "example": "Cumulative updates.",
+          "level": "intermediate"
+        },
+        {
+          "english": "dedicated",
+          "japanese": "専用の",
+          "example": "Dedicated resources.",
+          "level": "intermediate"
+        },
+        {
+          "english": "default",
+          "japanese": "デフォルトの",
+          "example": "Default settings.",
+          "level": "intermediate"
+        },
+        {
+          "english": "dependent",
+          "japanese": "依存する",
+          "example": "Dependent modules.",
+          "level": "intermediate"
+        },
+        {
+          "english": "deprecated",
+          "japanese": "非推奨の",
+          "example": "Deprecated features.",
+          "level": "intermediate"
+        },
+        {
+          "english": "derived",
+          "japanese": "派生した",
+          "example": "Derived classes.",
+          "level": "intermediate"
+        },
+        {
+          "english": "deterministic",
+          "japanese": "決定論的な",
+          "example": "Deterministic behavior.",
+          "level": "intermediate"
+        },
+        {
+          "english": "dimensional",
+          "japanese": "次元の",
+          "example": "Multi-dimensional array.",
+          "level": "intermediate"
+        },
+        {
+          "english": "discrete",
+          "japanese": "離散的な",
+          "example": "Discrete values.",
+          "level": "intermediate"
+        },
+        {
+          "english": "distributed",
+          "japanese": "分散された",
+          "example": "Distributed system.",
+          "level": "intermediate"
+        },
+        {
+          "english": "diverse",
+          "japanese": "多様な",
+          "example": "Diverse requirements.",
+          "level": "intermediate"
+        },
+        {
+          "english": "dormant",
+          "japanese": "休止中の",
+          "example": "Dormant processes.",
+          "level": "intermediate"
+        },
+        {
+          "english": "dynamic",
+          "japanese": "動的な",
+          "example": "Dynamic content.",
+          "level": "intermediate"
+        },
+        {
+          "english": "efficient",
+          "japanese": "効率的な",
+          "example": "Efficient algorithms.",
+          "level": "intermediate"
+        },
+        {
+          "english": "eligible",
+          "japanese": "適格な",
+          "example": "Eligible for upgrade.",
+          "level": "intermediate"
+        },
+        {
+          "english": "embedded",
+          "japanese": "埋め込まれた",
+          "example": "Embedded systems.",
+          "level": "intermediate"
+        },
+        {
+          "english": "empirical",
+          "japanese": "経験的な",
+          "example": "Empirical evidence.",
+          "level": "intermediate"
+        },
+        {
+          "english": "equivalent",
+          "japanese": "同等の",
+          "example": "Equivalent functionality.",
+          "level": "intermediate"
+        },
+        {
+          "english": "exclusive",
+          "japanese": "排他的な",
+          "example": "Exclusive access.",
+          "level": "intermediate"
+        },
+        {
+          "english": "extensible",
+          "japanese": "拡張可能な",
+          "example": "Extensible architecture.",
+          "level": "intermediate"
+        }
+      ]
+    },
+    {
+      "name": "ビジネス英語 - 会議・コミュニケーション",
+      "icon": "💼",
+      "terms": [
+        {
+          "english": "agenda",
+          "japanese": "議題、予定",
+          "example": "Let's review the meeting agenda.",
+          "level": "business"
+        },
+        {
+          "english": "align",
+          "japanese": "整合させる、足並みを揃える",
+          "example": "We need to align our strategy.",
+          "level": "business"
+        },
+        {
+          "english": "clarify",
+          "japanese": "明確にする",
+          "example": "Could you clarify that point?",
+          "level": "business"
+        },
+        {
+          "english": "collaborate",
+          "japanese": "協力する、共同作業する",
+          "example": "Let's collaborate on this project.",
+          "level": "business"
+        },
+        {
+          "english": "delegate",
+          "japanese": "委任する、代表を派遣する",
+          "example": "Delegate tasks to team members.",
+          "level": "business"
+        },
+        {
+          "english": "escalate",
+          "japanese": "エスカレートする、上位に報告する",
+          "example": "We need to escalate this issue.",
+          "level": "business"
+        },
+        {
+          "english": "facilitate",
+          "japanese": "促進する、容易にする",
+          "example": "I'll facilitate the discussion.",
+          "level": "business"
+        },
+        {
+          "english": "follow up",
+          "japanese": "フォローアップする、追跡する",
+          "example": "I'll follow up with you next week.",
+          "level": "business"
+        },
+        {
+          "english": "leverage",
+          "japanese": "活用する、てこ入れする",
+          "example": "Leverage our existing resources.",
+          "level": "business"
+        },
+        {
+          "english": "milestone",
+          "japanese": "マイルストーン、節目",
+          "example": "We've reached an important milestone.",
+          "level": "business"
+        },
+        {
+          "english": "prioritize",
+          "japanese": "優先順位をつける",
+          "example": "Let's prioritize urgent tasks.",
+          "level": "business"
+        },
+        {
+          "english": "stakeholder",
+          "japanese": "利害関係者",
+          "example": "Get feedback from stakeholders.",
+          "level": "business"
+        },
+        {
+          "english": "synergy",
+          "japanese": "シナジー、相乗効果",
+          "example": "Create synergy between teams.",
+          "level": "business"
+        },
+        {
+          "english": "touch base",
+          "japanese": "連絡を取る、確認する",
+          "example": "Let's touch base next Monday.",
+          "level": "business"
+        },
+        {
+          "english": "action item",
+          "japanese": "アクションアイテム、実行項目",
+          "example": "Here are the action items from today's meeting.",
+          "level": "business"
+        },
+        {
+          "english": "bandwidth",
+          "japanese": "帯域幅、余裕",
+          "example": "I don't have bandwidth for this task.",
+          "level": "business"
+        },
+        {
+          "english": "bottleneck",
+          "japanese": "ボトルネック",
+          "example": "This is a bottleneck in the process.",
+          "level": "business"
+        },
+        {
+          "english": "deliverable",
+          "japanese": "成果物",
+          "example": "What are the key deliverables?",
+          "level": "business"
+        },
+        {
+          "english": "benchmark",
+          "japanese": "基準、指標",
+          "example": "Use industry benchmarks.",
+          "level": "business"
+        },
+        {
+          "english": "KPI",
+          "japanese": "重要業績評価指標",
+          "example": "Track the KPIs regularly.",
+          "level": "business"
+        },
+        {
+          "english": "accountability",
+          "japanese": "説明責任",
+          "example": "accountability.",
+          "level": "business"
+        },
+        {
+          "english": "alignment",
+          "japanese": "整合",
+          "example": "alignment.",
+          "level": "business"
+        },
+        {
+          "english": "briefing",
+          "japanese": "説明会",
+          "example": "briefing.",
+          "level": "business"
+        },
+        {
+          "english": "buy-in",
+          "japanese": "賛同",
+          "example": "buy-in.",
+          "level": "business"
+        },
+        {
+          "english": "challenge",
+          "japanese": "課題",
+          "example": "challenge.",
+          "level": "business"
+        },
+        {
+          "english": "clarification",
+          "japanese": "明確化",
+          "example": "clarification.",
+          "level": "business"
+        },
+        {
+          "english": "closure",
+          "japanese": "締めくくり",
+          "example": "closure.",
+          "level": "business"
+        },
+        {
+          "english": "consensus",
+          "japanese": "合意",
+          "example": "consensus.",
+          "level": "business"
+        },
+        {
+          "english": "consolidate",
+          "japanese": "統合",
+          "example": "consolidate.",
+          "level": "business"
+        },
+        {
+          "english": "contingency",
+          "japanese": "不測の事態",
+          "example": "contingency.",
+          "level": "business"
+        },
+        {
+          "english": "debriefing",
+          "japanese": "報告会",
+          "example": "debriefing.",
+          "level": "business"
+        },
+        {
+          "english": "disclosure",
+          "japanese": "開示",
+          "example": "disclosure.",
+          "level": "business"
+        },
+        {
+          "english": "discussion",
+          "japanese": "議論",
+          "example": "discussion.",
+          "level": "business"
+        },
+        {
+          "english": "engagement",
+          "japanese": "関与",
+          "example": "engagement.",
+          "level": "business"
+        },
+        {
+          "english": "evaluation",
+          "japanese": "評価",
+          "example": "evaluation.",
+          "level": "business"
+        },
+        {
+          "english": "execution",
+          "japanese": "実行",
+          "example": "execution.",
+          "level": "business"
+        },
+        {
+          "english": "framework",
+          "japanese": "枠組み",
+          "example": "framework.",
+          "level": "business"
+        },
+        {
+          "english": "governance",
+          "japanese": "ガバナンス",
+          "example": "governance.",
+          "level": "business"
+        },
+        {
+          "english": "impact",
+          "japanese": "影響",
+          "example": "impact.",
+          "level": "business"
+        },
+        {
+          "english": "implementation",
+          "japanese": "実装",
+          "example": "implementation.",
+          "level": "business"
+        },
+        {
+          "english": "acknowledge",
+          "japanese": "認める",
+          "example": "I acknowledge your point.",
+          "level": "business"
+        },
+        {
+          "english": "adjourn",
+          "japanese": "休会する",
+          "example": "Let's adjourn the meeting.",
+          "level": "business"
+        },
+        {
+          "english": "advocate",
+          "japanese": "提唱する",
+          "example": "I advocate this approach.",
+          "level": "business"
+        },
+        {
+          "english": "articulate",
+          "japanese": "明確に述べる",
+          "example": "Articulate your vision.",
+          "level": "business"
+        },
+        {
+          "english": "elaborate",
+          "japanese": "詳しく述べる",
+          "example": "Please elaborate on this.",
+          "level": "business"
+        },
+        {
+          "english": "emphasize",
+          "japanese": "強調する",
+          "example": "I want to emphasize this.",
+          "level": "business"
+        },
+        {
+          "english": "intervene",
+          "japanese": "介入する",
+          "example": "We need to intervene.",
+          "level": "business"
+        },
+        {
+          "english": "brainstorm",
+          "japanese": "ブレインストーミングする",
+          "example": "Let's brainstorm ideas.",
+          "level": "business"
+        },
+        {
+          "english": "minute",
+          "japanese": "議事録",
+          "example": "Take the minutes.",
+          "level": "business"
+        },
+        {
+          "english": "negotiate",
+          "japanese": "交渉する",
+          "example": "Negotiate the terms.",
+          "level": "business"
+        },
+        {
+          "english": "rationale",
+          "japanese": "根拠",
+          "example": "Explain the rationale.",
+          "level": "business"
+        },
+        {
+          "english": "table",
+          "japanese": "議題に載せる",
+          "example": "Let's table this discussion.",
+          "level": "business"
+        },
+        {
+          "english": "unanimous",
+          "japanese": "全会一致の",
+          "example": "A unanimous decision.",
+          "level": "business"
+        },
+        {
+          "english": "viable",
+          "japanese": "実行可能な",
+          "example": "A viable option.",
+          "level": "business"
+        }
+      ]
+    },
+    {
+      "name": "ビジネス英語 - メール・文書",
+      "icon": "📧",
+      "terms": [
+        {
+          "english": "acknowledge",
+          "japanese": "認める、受領を知らせる",
+          "example": "I acknowledge receipt of your email.",
+          "level": "business"
+        },
+        {
+          "english": "as per",
+          "japanese": "〜に従って、〜の通り",
+          "example": "As per your request, here is the report.",
+          "level": "business"
+        },
+        {
+          "english": "attached herewith",
+          "japanese": "添付の通り",
+          "example": "Please find the document attached herewith.",
+          "level": "business"
+        },
+        {
+          "english": "at your earliest convenience",
+          "japanese": "できるだけ早く、ご都合のよい時に",
+          "example": "Please reply at your earliest convenience.",
+          "level": "business"
+        },
+        {
+          "english": "FYI",
+          "japanese": "ご参考まで",
+          "example": "FYI, the meeting has been rescheduled.",
+          "level": "business"
+        },
+        {
+          "english": "keep me posted",
+          "japanese": "状況を知らせてください",
+          "example": "Please keep me posted on the progress.",
+          "level": "business"
+        },
+        {
+          "english": "look forward to",
+          "japanese": "楽しみにしている",
+          "example": "I look forward to hearing from you.",
+          "level": "business"
+        },
+        {
+          "english": "please be advised",
+          "japanese": "お知らせします、ご了承ください",
+          "example": "Please be advised that the office will be closed.",
+          "level": "business"
+        },
+        {
+          "english": "reach out",
+          "japanese": "連絡を取る",
+          "example": "Feel free to reach out if you have questions.",
+          "level": "business"
+        },
+        {
+          "english": "regarding",
+          "japanese": "〜に関して",
+          "example": "Regarding your inquiry, here is the information.",
+          "level": "business"
+        },
+        {
+          "english": "would appreciate",
+          "japanese": "ありがたい、感謝します",
+          "example": "I would appreciate your prompt response.",
+          "level": "business"
+        },
+        {
+          "english": "per your request",
+          "japanese": "ご依頼の通り",
+          "example": "Per your request, I've attached the files.",
+          "level": "business"
+        },
+        {
+          "english": "loop in",
+          "japanese": "情報を共有する、参加させる",
+          "example": "Let me loop in the project manager.",
+          "level": "business"
+        },
+        {
+          "english": "circle back",
+          "japanese": "後で戻る、再度確認する",
+          "example": "Let me circle back on this next week.",
+          "level": "business"
+        },
+        {
+          "english": "heads up",
+          "japanese": "事前に知らせる、注意喚起",
+          "example": "Just a heads up - the deadline is tomorrow.",
+          "level": "business"
+        },
+        {
+          "english": "accordingly",
+          "japanese": "それに応じて",
+          "example": "accordingly.",
+          "level": "business"
+        },
+        {
+          "english": "amendment",
+          "japanese": "修正",
+          "example": "amendment.",
+          "level": "business"
+        },
+        {
+          "english": "apologies",
+          "japanese": "お詫び",
+          "example": "apologies.",
+          "level": "business"
+        },
+        {
+          "english": "attachment",
+          "japanese": "添付",
+          "example": "attachment.",
+          "level": "business"
+        },
+        {
+          "english": "clarification",
+          "japanese": "明確化",
+          "example": "clarification.",
+          "level": "business"
+        },
+        {
+          "english": "confirmation",
+          "japanese": "確認",
+          "example": "confirmation.",
+          "level": "business"
+        },
+        {
+          "english": "correspondence",
+          "japanese": "通信",
+          "example": "correspondence.",
+          "level": "business"
+        },
+        {
+          "english": "courtesy",
+          "japanese": "礼儀",
+          "example": "courtesy.",
+          "level": "business"
+        },
+        {
+          "english": "documentation",
+          "japanese": "文書化",
+          "example": "documentation.",
+          "level": "business"
+        },
+        {
+          "english": "enclosed",
+          "japanese": "同封",
+          "example": "enclosed.",
+          "level": "business"
+        },
+        {
+          "english": "endorsement",
+          "japanese": "承認",
+          "example": "endorsement.",
+          "level": "business"
+        },
+        {
+          "english": "formal",
+          "japanese": "正式な",
+          "example": "formal.",
+          "level": "business"
+        },
+        {
+          "english": "furthermore",
+          "japanese": "さらに",
+          "example": "furthermore.",
+          "level": "business"
+        },
+        {
+          "english": "hereby",
+          "japanese": "ここに",
+          "example": "hereby.",
+          "level": "business"
+        },
+        {
+          "english": "however",
+          "japanese": "しかし",
+          "example": "however.",
+          "level": "business"
+        },
+        {
+          "english": "moreover",
+          "japanese": "さらに",
+          "example": "moreover.",
+          "level": "business"
+        },
+        {
+          "english": "notification",
+          "japanese": "通知",
+          "example": "notification.",
+          "level": "business"
+        },
+        {
+          "english": "outlined",
+          "japanese": "概説された",
+          "example": "outlined.",
+          "level": "business"
+        },
+        {
+          "english": "preliminary",
+          "japanese": "予備的",
+          "example": "preliminary.",
+          "level": "business"
+        },
+        {
+          "english": "prompt",
+          "japanese": "迅速な",
+          "example": "prompt.",
+          "level": "business"
+        },
+        {
+          "english": "reference",
+          "japanese": "参照",
+          "example": "reference.",
+          "level": "business"
+        },
+        {
+          "english": "reminder",
+          "japanese": "リマインダー",
+          "example": "reminder.",
+          "level": "business"
+        },
+        {
+          "english": "respectively",
+          "japanese": "それぞれ",
+          "example": "respectively.",
+          "level": "business"
+        },
+        {
+          "english": "sincerely",
+          "japanese": "心から",
+          "example": "sincerely.",
+          "level": "business"
+        },
+        {
+          "english": "subsequently",
+          "japanese": "その後",
+          "example": "subsequently.",
+          "level": "business"
+        },
+        {
+          "english": "amend",
+          "japanese": "修正する",
+          "example": "Please amend the contract.",
+          "level": "business"
+        },
+        {
+          "english": "attach",
+          "japanese": "添付する",
+          "example": "Please find attached...",
+          "level": "business"
+        },
+        {
+          "english": "clarify",
+          "japanese": "明確にする",
+          "example": "I'd like to clarify...",
+          "level": "business"
+        },
+        {
+          "english": "comply",
+          "japanese": "従う",
+          "example": "We comply with regulations.",
+          "level": "business"
+        },
+        {
+          "english": "correspond",
+          "japanese": "連絡する",
+          "example": "I'll correspond by email.",
+          "level": "business"
+        },
+        {
+          "english": "disclose",
+          "japanese": "開示する",
+          "example": "We must disclose this.",
+          "level": "business"
+        },
+        {
+          "english": "enclose",
+          "japanese": "同封する",
+          "example": "I enclose the documents.",
+          "level": "business"
+        },
+        {
+          "english": "forward",
+          "japanese": "転送する",
+          "example": "Please forward this email.",
+          "level": "business"
+        },
+        {
+          "english": "notify",
+          "japanese": "通知する",
+          "example": "We will notify you.",
+          "level": "business"
+        },
+        {
+          "english": "circulate",
+          "japanese": "回覧する",
+          "example": "Circulate the document.",
+          "level": "business"
+        },
+        {
+          "english": "draft",
+          "japanese": "草案を作る",
+          "example": "Draft a proposal.",
+          "level": "business"
+        },
+        {
+          "english": "expedite",
+          "japanese": "迅速化する",
+          "example": "Expedite the approval.",
+          "level": "business"
+        },
+        {
+          "english": "inquire",
+          "japanese": "問い合わせる",
+          "example": "I'm writing to inquire...",
+          "level": "business"
+        },
+        {
+          "english": "postpone",
+          "japanese": "延期する",
+          "example": "We must postpone the event.",
+          "level": "business"
+        },
+        {
+          "english": "proceed",
+          "japanese": "進める",
+          "example": "Shall we proceed?",
+          "level": "business"
+        },
+        {
+          "english": "retain",
+          "japanese": "保持する",
+          "example": "Retain the records.",
+          "level": "business"
+        },
+        {
+          "english": "submit",
+          "japanese": "提出する",
+          "example": "Submit the form.",
+          "level": "business"
+        },
+        {
+          "english": "subscribe",
+          "japanese": "購読する",
+          "example": "Subscribe to updates.",
+          "level": "business"
+        },
+        {
+          "english": "summarize",
+          "japanese": "要約する",
+          "example": "Let me summarize...",
+          "level": "business"
+        },
+        {
+          "english": "verify",
+          "japanese": "検証する",
+          "example": "Please verify this.",
+          "level": "business"
+        }
+      ]
+    },
+    {
+      "name": "エンジニア技術用語",
+      "icon": "⚙️",
+      "terms": [
+        {
+          "english": "authenticate",
+          "japanese": "認証する",
+          "example": "Authenticate users before granting access.",
+          "level": "technical"
+        },
+        {
+          "english": "bottleneck",
+          "japanese": "ボトルネック、性能上の障害",
+          "example": "Identify performance bottlenecks.",
+          "level": "technical"
+        },
+        {
+          "english": "compile",
+          "japanese": "コンパイルする",
+          "example": "Compile the code before running.",
+          "level": "technical"
+        },
+        {
+          "english": "deprecated",
+          "japanese": "非推奨の、廃止予定の",
+          "example": "This method is deprecated.",
+          "level": "technical"
+        },
+        {
+          "english": "integrate",
+          "japanese": "統合する",
+          "example": "Integrate the new API.",
+          "level": "technical"
+        },
+        {
+          "english": "iterate",
+          "japanese": "反復する、繰り返す",
+          "example": "Iterate over the array.",
+          "level": "technical"
+        },
+        {
+          "english": "optimize",
+          "japanese": "最適化する",
+          "example": "Optimize the database queries.",
+          "level": "technical"
+        },
+        {
+          "english": "parse",
+          "japanese": "解析する、パースする",
+          "example": "Parse the JSON data.",
+          "level": "technical"
+        },
+        {
+          "english": "refactor",
+          "japanese": "リファクタリングする",
+          "example": "Refactor the legacy code.",
+          "level": "technical"
+        },
+        {
+          "english": "render",
+          "japanese": "描画する、レンダリングする",
+          "example": "Render the component on the page.",
+          "level": "technical"
+        },
+        {
+          "english": "scalable",
+          "japanese": "スケーラブルな、拡張可能な",
+          "example": "Build a scalable architecture.",
+          "level": "technical"
+        },
+        {
+          "english": "throttle",
+          "japanese": "調整する、制限する",
+          "example": "Throttle API requests.",
+          "level": "technical"
+        },
+        {
+          "english": "validate",
+          "japanese": "検証する、妥当性を確認する",
+          "example": "Validate user input.",
+          "level": "technical"
+        },
+        {
+          "english": "asynchronous",
+          "japanese": "非同期の",
+          "example": "Use asynchronous processing.",
+          "level": "technical"
+        },
+        {
+          "english": "dependency",
+          "japanese": "依存関係",
+          "example": "Install project dependencies.",
+          "level": "technical"
+        },
+        {
+          "english": "concurrent",
+          "japanese": "並行の、同時発生の",
+          "example": "Handle concurrent requests.",
+          "level": "technical"
+        },
+        {
+          "english": "instantiate",
+          "japanese": "インスタンス化する",
+          "example": "Instantiate a new object.",
+          "level": "technical"
+        },
+        {
+          "english": "serialize",
+          "japanese": "シリアライズする",
+          "example": "Serialize the data before sending.",
+          "level": "technical"
+        },
+        {
+          "english": "middleware",
+          "japanese": "ミドルウェア",
+          "example": "Add authentication middleware.",
+          "level": "technical"
+        },
+        {
+          "english": "framework",
+          "japanese": "フレームワーク",
+          "example": "Use a modern framework.",
+          "level": "technical"
+        },
+        {
+          "english": "abstraction",
+          "japanese": "抽象化",
+          "example": "abstraction.",
+          "level": "technical"
+        },
+        {
+          "english": "algorithm",
+          "japanese": "アルゴリズム",
+          "example": "algorithm.",
+          "level": "technical"
+        },
+        {
+          "english": "annotation",
+          "japanese": "注釈",
+          "example": "annotation.",
+          "level": "technical"
+        },
+        {
+          "english": "architecture",
+          "japanese": "アーキテクチャ",
+          "example": "architecture.",
+          "level": "technical"
+        },
+        {
+          "english": "assertion",
+          "japanese": "アサーション",
+          "example": "assertion.",
+          "level": "technical"
+        },
+        {
+          "english": "benchmark",
+          "japanese": "ベンチマーク",
+          "example": "benchmark.",
+          "level": "technical"
+        },
+        {
+          "english": "binary",
+          "japanese": "バイナリ",
+          "example": "binary.",
+          "level": "technical"
+        },
+        {
+          "english": "blockchain",
+          "japanese": "ブロックチェーン",
+          "example": "blockchain.",
+          "level": "technical"
+        },
+        {
+          "english": "boilerplate",
+          "japanese": "定型文",
+          "example": "boilerplate.",
+          "level": "technical"
+        },
+        {
+          "english": "bootstrap",
+          "japanese": "ブートストラップ",
+          "example": "bootstrap.",
+          "level": "technical"
+        },
+        {
+          "english": "buffer",
+          "japanese": "バッファ",
+          "example": "buffer.",
+          "level": "technical"
+        },
+        {
+          "english": "cache",
+          "japanese": "キャッシュ",
+          "example": "cache.",
+          "level": "technical"
+        },
+        {
+          "english": "callback",
+          "japanese": "コールバック",
+          "example": "callback.",
+          "level": "technical"
+        },
+        {
+          "english": "checksum",
+          "japanese": "チェックサム",
+          "example": "checksum.",
+          "level": "technical"
+        },
+        {
+          "english": "compiler",
+          "japanese": "コンパイラ",
+          "example": "compiler.",
+          "level": "technical"
+        },
+        {
+          "english": "configuration",
+          "japanese": "設定",
+          "example": "configuration.",
+          "level": "technical"
+        },
+        {
+          "english": "container",
+          "japanese": "コンテナ",
+          "example": "container.",
+          "level": "technical"
+        },
+        {
+          "english": "debugging",
+          "japanese": "デバッグ",
+          "example": "debugging.",
+          "level": "technical"
+        },
+        {
+          "english": "deployment",
+          "japanese": "デプロイ",
+          "example": "deployment.",
+          "level": "technical"
+        },
+        {
+          "english": "docker",
+          "japanese": "Docker",
+          "example": "docker.",
+          "level": "technical"
+        },
+        {
+          "english": "encryption",
+          "japanese": "暗号化",
+          "example": "encryption.",
+          "level": "technical"
+        },
+        {
+          "english": "endpoint",
+          "japanese": "エンドポイント",
+          "example": "endpoint.",
+          "level": "technical"
+        },
+        {
+          "english": "exception",
+          "japanese": "例外",
+          "example": "exception.",
+          "level": "technical"
+        },
+        {
+          "english": "executable",
+          "japanese": "実行可能",
+          "example": "executable.",
+          "level": "technical"
+        },
+        {
+          "english": "garbage collection",
+          "japanese": "GC",
+          "example": "GC.",
+          "level": "technical"
+        },
+        {
+          "english": "bandwidth",
+          "japanese": "帯域幅",
+          "example": "Monitor bandwidth usage.",
+          "level": "technical"
+        },
+        {
+          "english": "breakpoint",
+          "japanese": "ブレークポイント",
+          "example": "Set a breakpoint.",
+          "level": "technical"
+        },
+        {
+          "english": "bytecode",
+          "japanese": "バイトコード",
+          "example": "Compile to bytecode.",
+          "level": "technical"
+        },
+        {
+          "english": "cipher",
+          "japanese": "暗号",
+          "example": "Use AES cipher.",
+          "level": "technical"
+        },
+        {
+          "english": "concurrency",
+          "japanese": "並行性",
+          "example": "Handle concurrency issues.",
+          "level": "technical"
+        },
+        {
+          "english": "constraint",
+          "japanese": "制約",
+          "example": "Database constraints.",
+          "level": "technical"
+        },
+        {
+          "english": "daemon",
+          "japanese": "デーモン",
+          "example": "Start the daemon process.",
+          "level": "technical"
+        },
+        {
+          "english": "debugger",
+          "japanese": "デバッガ",
+          "example": "Attach the debugger.",
+          "level": "technical"
+        },
+        {
+          "english": "handshake",
+          "japanese": "ハンドシェイク",
+          "example": "TLS handshake.",
+          "level": "technical"
+        },
+        {
+          "english": "inheritance",
+          "japanese": "継承",
+          "example": "Use class inheritance.",
+          "level": "technical"
+        },
+        {
+          "english": "interpreter",
+          "japanese": "インタプリタ",
+          "example": "The Python interpreter.",
+          "level": "technical"
+        },
+        {
+          "english": "kernel",
+          "japanese": "カーネル",
+          "example": "Kernel module.",
+          "level": "technical"
+        },
+        {
+          "english": "latency",
+          "japanese": "レイテンシ",
+          "example": "Reduce network latency.",
+          "level": "technical"
+        },
+        {
+          "english": "overhead",
+          "japanese": "オーバーヘッド",
+          "example": "Minimize overhead.",
+          "level": "technical"
+        },
+        {
+          "english": "automation",
+          "japanese": "自動化",
+          "example": "Build automation scripts.",
+          "level": "technical"
+        },
+        {
+          "english": "compatibility",
+          "japanese": "互換性",
+          "example": "Backward compatibility.",
+          "level": "technical"
+        },
+        {
+          "english": "integration",
+          "japanese": "統合",
+          "example": "System integration.",
+          "level": "technical"
+        },
+        {
+          "english": "iteration",
+          "japanese": "反復",
+          "example": "Each iteration improves.",
+          "level": "technical"
+        },
+        {
+          "english": "optimization",
+          "japanese": "最適化",
+          "example": "Performance optimization.",
+          "level": "technical"
+        },
+        {
+          "english": "refactoring",
+          "japanese": "リファクタリング",
+          "example": "Code refactoring.",
+          "level": "technical"
+        },
+        {
+          "english": "scalability",
+          "japanese": "拡張性",
+          "example": "Ensure scalability.",
+          "level": "technical"
+        },
+        {
+          "english": "authentication",
+          "japanese": "認証",
+          "example": "User authentication.",
+          "level": "technical"
+        },
+        {
+          "english": "runtime",
+          "japanese": "ランタイム",
+          "example": "Runtime error occurred.",
+          "level": "technical"
+        }
+      ]
+    },
+    {
+      "name": "英熟語・イディオム",
+      "icon": "💬",
+      "terms": [
+        {
+          "english": "at the end of the day",
+          "japanese": "結局のところ、要するに",
+          "example": "At the end of the day, it's your decision.",
+          "level": "idiom"
+        },
+        {
+          "english": "back to the drawing board",
+          "japanese": "振り出しに戻る",
+          "example": "The plan failed, so it's back to the drawing board.",
+          "level": "idiom"
+        },
+        {
+          "english": "ball is in your court",
+          "japanese": "あなたの番です、判断はあなた次第",
+          "example": "I've done my part. The ball is in your court now.",
+          "level": "idiom"
+        },
+        {
+          "english": "bring to the table",
+          "japanese": "提供する、もたらす",
+          "example": "What can you bring to the table?",
+          "level": "idiom"
+        },
+        {
+          "english": "cut to the chase",
+          "japanese": "本題に入る",
+          "example": "Let's cut to the chase.",
+          "level": "idiom"
+        },
+        {
+          "english": "get the ball rolling",
+          "japanese": "物事を始める",
+          "example": "Let's get the ball rolling on this project.",
+          "level": "idiom"
+        },
+        {
+          "english": "hit the ground running",
+          "japanese": "好スタートを切る、素早く着手する",
+          "example": "We need to hit the ground running.",
+          "level": "idiom"
+        },
+        {
+          "english": "in the loop",
+          "japanese": "情報を共有されている",
+          "example": "Keep everyone in the loop.",
+          "level": "idiom"
+        },
+        {
+          "english": "keep an eye on",
+          "japanese": "注視する、見守る",
+          "example": "Keep an eye on the metrics.",
+          "level": "idiom"
+        },
+        {
+          "english": "on the same page",
+          "japanese": "同じ認識である、意見が一致している",
+          "example": "Let's make sure we're all on the same page.",
+          "level": "idiom"
+        },
+        {
+          "english": "out of the box",
+          "japanese": "既成概念にとらわれない、すぐに使える",
+          "example": "This feature works out of the box.",
+          "level": "idiom"
+        },
+        {
+          "english": "take it with a grain of salt",
+          "japanese": "話半分に聞く、鵜呑みにしない",
+          "example": "Take his advice with a grain of salt.",
+          "level": "idiom"
+        },
+        {
+          "english": "think outside the box",
+          "japanese": "既成概念にとらわれずに考える",
+          "example": "We need to think outside the box.",
+          "level": "idiom"
+        },
+        {
+          "english": "up in the air",
+          "japanese": "未定の、はっきりしない",
+          "example": "The schedule is still up in the air.",
+          "level": "idiom"
+        },
+        {
+          "english": "win-win situation",
+          "japanese": "双方にとって有益な状況",
+          "example": "This is a win-win situation for both teams.",
+          "level": "idiom"
+        },
+        {
+          "english": "break the ice",
+          "japanese": "打ち解ける、場を和ませる",
+          "example": "Let's break the ice with a fun activity.",
+          "level": "idiom"
+        },
+        {
+          "english": "see eye to eye",
+          "japanese": "意見が一致する",
+          "example": "We don't always see eye to eye on this.",
+          "level": "idiom"
+        },
+        {
+          "english": "run out of time",
+          "japanese": "時間切れになる",
+          "example": "We're running out of time.",
+          "level": "idiom"
+        },
+        {
+          "english": "piece of cake",
+          "japanese": "簡単なこと",
+          "example": "This task is a piece of cake.",
+          "level": "idiom"
+        },
+        {
+          "english": "call it a day",
+          "japanese": "今日はこれで終わりにする",
+          "example": "Let's call it a day.",
+          "level": "idiom"
+        },
+        {
+          "english": "actions speak louder",
+          "japanese": "行動が雄弁",
+          "example": "actions speak louder.",
+          "level": "idiom"
+        },
+        {
+          "english": "add fuel to fire",
+          "japanese": "火に油",
+          "example": "add fuel to fire.",
+          "level": "idiom"
+        },
+        {
+          "english": "blessing in disguise",
+          "japanese": "災い転じて福",
+          "example": "blessing in disguise.",
+          "level": "idiom"
+        },
+        {
+          "english": "best of both worlds",
+          "japanese": "両方の良いとこ取り",
+          "example": "best of both worlds.",
+          "level": "idiom"
+        },
+        {
+          "english": "bite off more than chew",
+          "japanese": "手に余る",
+          "example": "bite off more than chew.",
+          "level": "idiom"
+        },
+        {
+          "english": "by the book",
+          "japanese": "規則通り",
+          "example": "by the book.",
+          "level": "idiom"
+        },
+        {
+          "english": "catch eye",
+          "japanese": "目を引く",
+          "example": "catch eye.",
+          "level": "idiom"
+        },
+        {
+          "english": "come rain or shine",
+          "japanese": "どんな時でも",
+          "example": "come rain or shine.",
+          "level": "idiom"
+        },
+        {
+          "english": "costs arm and leg",
+          "japanese": "高価",
+          "example": "costs arm and leg.",
+          "level": "idiom"
+        },
+        {
+          "english": "cross that bridge",
+          "japanese": "その時考える",
+          "example": "cross that bridge.",
+          "level": "idiom"
+        },
+        {
+          "english": "devil's advocate",
+          "japanese": "反対意見役",
+          "example": "devil's advocate.",
+          "level": "idiom"
+        },
+        {
+          "english": "every cloud silver lining",
+          "japanese": "災い転じて福",
+          "example": "every cloud silver lining.",
+          "level": "idiom"
+        },
+        {
+          "english": "from scratch",
+          "japanese": "ゼロから",
+          "example": "from scratch.",
+          "level": "idiom"
+        },
+        {
+          "english": "give benefit of doubt",
+          "japanese": "信じる",
+          "example": "give benefit of doubt.",
+          "level": "idiom"
+        },
+        {
+          "english": "go extra mile",
+          "japanese": "期待以上",
+          "example": "go extra mile.",
+          "level": "idiom"
+        },
+        {
+          "english": "hit nail on head",
+          "japanese": "的を射る",
+          "example": "hit nail on head.",
+          "level": "idiom"
+        },
+        {
+          "english": "not rocket science",
+          "japanese": "難しくない",
+          "example": "not rocket science.",
+          "level": "idiom"
+        },
+        {
+          "english": "jump on bandwagon",
+          "japanese": "流行に乗る",
+          "example": "jump on bandwagon.",
+          "level": "idiom"
+        },
+        {
+          "english": "keep chin up",
+          "japanese": "元気出して",
+          "example": "keep chin up.",
+          "level": "idiom"
+        },
+        {
+          "english": "let cat out of bag",
+          "japanese": "秘密を漏らす",
+          "example": "let cat out of bag.",
+          "level": "idiom"
+        },
+        {
+          "english": "at stake",
+          "japanese": "危機に瀕して",
+          "example": "Our reputation is at stake.",
+          "level": "idiom"
+        },
+        {
+          "english": "back and forth",
+          "japanese": "行ったり来たり",
+          "example": "We went back and forth.",
+          "level": "idiom"
+        },
+        {
+          "english": "bottom line",
+          "japanese": "最終結果",
+          "example": "What's the bottom line?",
+          "level": "idiom"
+        },
+        {
+          "english": "break down",
+          "japanese": "分解する",
+          "example": "Break down the problem.",
+          "level": "idiom"
+        },
+        {
+          "english": "bring up",
+          "japanese": "持ち出す",
+          "example": "I'll bring it up in the meeting.",
+          "level": "idiom"
+        },
+        {
+          "english": "carry out",
+          "japanese": "実行する",
+          "example": "Carry out the plan.",
+          "level": "idiom"
+        },
+        {
+          "english": "come across",
+          "japanese": "遭遇する",
+          "example": "I came across an issue.",
+          "level": "idiom"
+        },
+        {
+          "english": "come up with",
+          "japanese": "思いつく",
+          "example": "Come up with a solution.",
+          "level": "idiom"
+        },
+        {
+          "english": "cut down",
+          "japanese": "削減する",
+          "example": "Cut down on costs.",
+          "level": "idiom"
+        },
+        {
+          "english": "deal with",
+          "japanese": "対処する",
+          "example": "Deal with the problem.",
+          "level": "idiom"
+        },
+        {
+          "english": "figure out",
+          "japanese": "理解する",
+          "example": "Figure out the cause.",
+          "level": "idiom"
+        },
+        {
+          "english": "fill in",
+          "japanese": "記入する",
+          "example": "Fill in the form.",
+          "level": "idiom"
+        },
+        {
+          "english": "follow up",
+          "japanese": "フォローアップする",
+          "example": "I'll follow up tomorrow.",
+          "level": "idiom"
+        },
+        {
+          "english": "get rid of",
+          "japanese": "取り除く",
+          "example": "Get rid of bugs.",
+          "level": "idiom"
+        },
+        {
+          "english": "go over",
+          "japanese": "確認する",
+          "example": "Go over the code.",
+          "level": "idiom"
+        },
+        {
+          "english": "hand in",
+          "japanese": "提出する",
+          "example": "Hand in your report.",
+          "level": "idiom"
+        },
+        {
+          "english": "keep track of",
+          "japanese": "追跡する",
+          "example": "Keep track of changes.",
+          "level": "idiom"
+        },
+        {
+          "english": "look into",
+          "japanese": "調査する",
+          "example": "I'll look into it.",
+          "level": "idiom"
+        },
+        {
+          "english": "point out",
+          "japanese": "指摘する",
+          "example": "Please point out errors.",
+          "level": "idiom"
+        },
+        {
+          "english": "work out",
+          "japanese": "解決する",
+          "example": "We'll work it out.",
+          "level": "idiom"
+        },
+        {
+          "english": "bear in mind",
+          "japanese": "心に留める",
+          "example": "Bear in mind the deadline.",
+          "level": "idiom"
+        },
+        {
+          "english": "by all means",
+          "japanese": "ぜひとも",
+          "example": "By all means, try it.",
+          "level": "idiom"
+        },
+        {
+          "english": "down the road",
+          "japanese": "将来的に",
+          "example": "We'll address this down the road.",
+          "level": "idiom"
+        },
+        {
+          "english": "for the time being",
+          "japanese": "当面は",
+          "example": "For the time being, use this.",
+          "level": "idiom"
+        },
+        {
+          "english": "get on board",
+          "japanese": "参加する",
+          "example": "Everyone should get on board.",
+          "level": "idiom"
+        },
+        {
+          "english": "in a nutshell",
+          "japanese": "手短に言えば",
+          "example": "In a nutshell, it's ready.",
+          "level": "idiom"
+        },
+        {
+          "english": "in the long run",
+          "japanese": "長期的には",
+          "example": "In the long run, it's better.",
+          "level": "idiom"
+        },
+        {
+          "english": "make sense",
+          "japanese": "理にかなう",
+          "example": "Does this make sense?",
+          "level": "idiom"
+        },
+        {
+          "english": "on the fly",
+          "japanese": "即座に",
+          "example": "Generate data on the fly.",
+          "level": "idiom"
+        },
+        {
+          "english": "take into account",
+          "japanese": "考慮に入れる",
+          "example": "Take this into account.",
+          "level": "idiom"
+        },
+        {
+          "english": "touch base",
+          "japanese": "連絡を取る",
+          "example": "Let's touch base tomorrow.",
+          "level": "idiom"
+        }
+      ]
+    },
+    {
+      "name": "TOEIC頻出単語",
+      "icon": "📊",
+      "terms": [
+        {
+          "english": "accommodate",
+          "japanese": "収容する、適応させる",
+          "example": "This room can accommodate 50 people.",
+          "level": "toeic"
+        },
+        {
+          "english": "accomplish",
+          "japanese": "達成する、成し遂げる",
+          "example": "We accomplished our quarterly goals.",
+          "level": "toeic"
+        },
+        {
+          "english": "accurately",
+          "japanese": "正確に",
+          "example": "Enter the data accurately.",
+          "level": "toeic"
+        },
+        {
+          "english": "address",
+          "japanese": "対処する、演説する",
+          "example": "We need to address this issue immediately.",
+          "level": "toeic"
+        },
+        {
+          "english": "adequate",
+          "japanese": "適切な、十分な",
+          "example": "Ensure adequate training for new employees.",
+          "level": "toeic"
+        },
+        {
+          "english": "announce",
+          "japanese": "発表する、知らせる",
+          "example": "The company will announce the results tomorrow.",
+          "level": "toeic"
+        },
+        {
+          "english": "annual",
+          "japanese": "年次の、毎年の",
+          "example": "Attend the annual conference.",
+          "level": "toeic"
+        },
+        {
+          "english": "appreciate",
+          "japanese": "感謝する、評価する",
+          "example": "We appreciate your patience.",
+          "level": "toeic"
+        },
+        {
+          "english": "approval",
+          "japanese": "承認、賛成",
+          "example": "Get approval from management.",
+          "level": "toeic"
+        },
+        {
+          "english": "approximately",
+          "japanese": "おおよそ、約",
+          "example": "The project will take approximately three months.",
+          "level": "toeic"
+        },
+        {
+          "english": "arrangement",
+          "japanese": "配置、手配",
+          "example": "Make travel arrangements.",
+          "level": "toeic"
+        },
+        {
+          "english": "attain",
+          "japanese": "達成する、獲得する",
+          "example": "Attain the sales target.",
+          "level": "toeic"
+        },
+        {
+          "english": "attend",
+          "japanese": "出席する、世話をする",
+          "example": "All employees must attend the meeting.",
+          "level": "toeic"
+        },
+        {
+          "english": "attribute",
+          "japanese": "属性、〜のせいにする",
+          "example": "Success can be attributed to teamwork.",
+          "level": "toeic"
+        },
+        {
+          "english": "budget",
+          "japanese": "予算",
+          "example": "Stay within the budget.",
+          "level": "toeic"
+        },
+        {
+          "english": "capacity",
+          "japanese": "容量、能力",
+          "example": "The facility has a capacity of 200.",
+          "level": "toeic"
+        },
+        {
+          "english": "cautious",
+          "japanese": "用心深い、慎重な",
+          "example": "Be cautious when handling sensitive data.",
+          "level": "toeic"
+        },
+        {
+          "english": "commitment",
+          "japanese": "約束、献身",
+          "example": "Show commitment to quality.",
+          "level": "toeic"
+        },
+        {
+          "english": "complimentary",
+          "japanese": "無料の、称賛の",
+          "example": "Enjoy complimentary breakfast.",
+          "level": "toeic"
+        },
+        {
+          "english": "comply",
+          "japanese": "従う、応じる",
+          "example": "Comply with safety regulations.",
+          "level": "toeic"
+        },
+        {
+          "english": "concern",
+          "japanese": "懸念、関心",
+          "example": "Address customer concerns promptly.",
+          "level": "toeic"
+        },
+        {
+          "english": "consecutive",
+          "japanese": "連続した",
+          "example": "Work for three consecutive days.",
+          "level": "toeic"
+        },
+        {
+          "english": "considerable",
+          "japanese": "かなりの、相当な",
+          "example": "We've made considerable progress.",
+          "level": "toeic"
+        },
+        {
+          "english": "consistently",
+          "japanese": "一貫して",
+          "example": "Deliver consistently high quality.",
+          "level": "toeic"
+        },
+        {
+          "english": "convenience",
+          "japanese": "便利さ、都合",
+          "example": "For your convenience, we offer online booking.",
+          "level": "toeic"
+        },
+        {
+          "english": "coordinate",
+          "japanese": "調整する、まとめる",
+          "example": "Coordinate with other departments.",
+          "level": "toeic"
+        },
+        {
+          "english": "credentials",
+          "japanese": "資格、信用証明書",
+          "example": "Provide your login credentials.",
+          "level": "toeic"
+        },
+        {
+          "english": "defer",
+          "japanese": "延期する、委ねる",
+          "example": "Defer the decision until next week.",
+          "level": "toeic"
+        },
+        {
+          "english": "demanding",
+          "japanese": "要求の厳しい",
+          "example": "This is a demanding role.",
+          "level": "toeic"
+        },
+        {
+          "english": "designated",
+          "japanese": "指定された",
+          "example": "Use the designated parking area.",
+          "level": "toeic"
+        },
+        {
+          "english": "adjacent",
+          "japanese": "隣接した",
+          "example": "adjacent.",
+          "level": "toeic"
+        },
+        {
+          "english": "advisory",
+          "japanese": "助言の",
+          "example": "advisory.",
+          "level": "toeic"
+        },
+        {
+          "english": "agenda",
+          "japanese": "議題",
+          "example": "agenda.",
+          "level": "toeic"
+        },
+        {
+          "english": "allocate",
+          "japanese": "割り当てる",
+          "example": "allocate.",
+          "level": "toeic"
+        },
+        {
+          "english": "ambitious",
+          "japanese": "野心的な",
+          "example": "ambitious.",
+          "level": "toeic"
+        },
+        {
+          "english": "anticipate",
+          "japanese": "予期する",
+          "example": "anticipate.",
+          "level": "toeic"
+        },
+        {
+          "english": "appliance",
+          "japanese": "機器",
+          "example": "appliance.",
+          "level": "toeic"
+        },
+        {
+          "english": "assembly",
+          "japanese": "組み立て",
+          "example": "assembly.",
+          "level": "toeic"
+        },
+        {
+          "english": "authorization",
+          "japanese": "認可",
+          "example": "authorization.",
+          "level": "toeic"
+        },
+        {
+          "english": "bargain",
+          "japanese": "お買い得",
+          "example": "bargain.",
+          "level": "toeic"
+        },
+        {
+          "english": "clientele",
+          "japanese": "顧客",
+          "example": "clientele.",
+          "level": "toeic"
+        },
+        {
+          "english": "component",
+          "japanese": "構成要素",
+          "example": "component.",
+          "level": "toeic"
+        },
+        {
+          "english": "confidential",
+          "japanese": "機密の",
+          "example": "confidential.",
+          "level": "toeic"
+        },
+        {
+          "english": "courtesy",
+          "japanese": "礼儀",
+          "example": "courtesy.",
+          "level": "toeic"
+        },
+        {
+          "english": "cuisine",
+          "japanese": "料理",
+          "example": "cuisine.",
+          "level": "toeic"
+        },
+        {
+          "english": "customary",
+          "japanese": "慣習の",
+          "example": "customary.",
+          "level": "toeic"
+        },
+        {
+          "english": "detour",
+          "japanese": "迂回路",
+          "example": "detour.",
+          "level": "toeic"
+        },
+        {
+          "english": "discount",
+          "japanese": "割引",
+          "example": "discount.",
+          "level": "toeic"
+        },
+        {
+          "english": "elaborate",
+          "japanese": "詳細な",
+          "example": "elaborate.",
+          "level": "toeic"
+        },
+        {
+          "english": "eligible",
+          "japanese": "適格な",
+          "example": "eligible.",
+          "level": "toeic"
+        },
+        {
+          "english": "acquire",
+          "japanese": "取得する",
+          "example": "Acquire new customers.",
+          "level": "toeic"
+        },
+        {
+          "english": "adhere",
+          "japanese": "遵守する",
+          "example": "Adhere to the policy.",
+          "level": "toeic"
+        },
+        {
+          "english": "amend",
+          "japanese": "修正する",
+          "example": "Amend the proposal.",
+          "level": "toeic"
+        },
+        {
+          "english": "assemble",
+          "japanese": "組み立てる",
+          "example": "Assemble the team.",
+          "level": "toeic"
+        },
+        {
+          "english": "behalf",
+          "japanese": "代理",
+          "example": "On behalf of the company.",
+          "level": "toeic"
+        },
+        {
+          "english": "circumstances",
+          "japanese": "状況",
+          "example": "Under the circumstances.",
+          "level": "toeic"
+        },
+        {
+          "english": "comprehensive",
+          "japanese": "包括的な",
+          "example": "A comprehensive report.",
+          "level": "toeic"
+        },
+        {
+          "english": "despite",
+          "japanese": "にもかかわらず",
+          "example": "Despite the challenges.",
+          "level": "toeic"
+        },
+        {
+          "english": "expedite",
+          "japanese": "迅速化する",
+          "example": "Expedite the process.",
+          "level": "toeic"
+        },
+        {
+          "english": "fulfill",
+          "japanese": "果たす",
+          "example": "Fulfill requirements.",
+          "level": "toeic"
+        },
+        {
+          "english": "garner",
+          "japanese": "集める",
+          "example": "Garner support.",
+          "level": "toeic"
+        },
+        {
+          "english": "hinder",
+          "japanese": "妨げる",
+          "example": "Don't hinder progress.",
+          "level": "toeic"
+        },
+        {
+          "english": "implement",
+          "japanese": "実装する",
+          "example": "Implement the strategy.",
+          "level": "toeic"
+        },
+        {
+          "english": "adversely",
+          "japanese": "悪影響で",
+          "example": "It may adversely affect results.",
+          "level": "toeic"
+        },
+        {
+          "english": "alternative",
+          "japanese": "代替案",
+          "example": "Consider alternatives.",
+          "level": "toeic"
+        },
+        {
+          "english": "amicable",
+          "japanese": "友好的な",
+          "example": "An amicable agreement.",
+          "level": "toeic"
+        },
+        {
+          "english": "applicable",
+          "japanese": "適用可能な",
+          "example": "Applicable regulations.",
+          "level": "toeic"
+        },
+        {
+          "english": "arbitrary",
+          "japanese": "任意の",
+          "example": "An arbitrary decision.",
+          "level": "toeic"
+        },
+        {
+          "english": "circa",
+          "japanese": "およそ",
+          "example": "Circa 2020.",
+          "level": "toeic"
+        },
+        {
+          "english": "concise",
+          "japanese": "簡潔な",
+          "example": "A concise summary.",
+          "level": "toeic"
+        },
+        {
+          "english": "decisive",
+          "japanese": "決定的な",
+          "example": "A decisive factor.",
+          "level": "toeic"
+        },
+        {
+          "english": "discretion",
+          "japanese": "裁量",
+          "example": "At your discretion.",
+          "level": "toeic"
+        },
+        {
+          "english": "diligent",
+          "japanese": "勤勉な",
+          "example": "A diligent worker.",
+          "level": "toeic"
+        }
+      ]
+    },
+    {
+      "name": "プレゼンテーション英語",
+      "icon": "🎤",
+      "terms": [
+        {
+          "english": "outline",
+          "japanese": "概要を説明する",
+          "example": "Let me outline the main points.",
+          "level": "presentation"
+        },
+        {
+          "english": "elaborate",
+          "japanese": "詳しく説明する",
+          "example": "Could you elaborate on that?",
+          "level": "presentation"
+        },
+        {
+          "english": "illustrate",
+          "japanese": "図解する、例示する",
+          "example": "Let me illustrate with an example.",
+          "level": "presentation"
+        },
+        {
+          "english": "highlight",
+          "japanese": "強調する、ハイライトする",
+          "example": "I'd like to highlight three key benefits.",
+          "level": "presentation"
+        },
+        {
+          "english": "emphasize",
+          "japanese": "強調する",
+          "example": "I want to emphasize the importance of this.",
+          "level": "presentation"
+        },
+        {
+          "english": "summarize",
+          "japanese": "要約する",
+          "example": "Let me summarize the key points.",
+          "level": "presentation"
+        },
+        {
+          "english": "transition",
+          "japanese": "移行する、つなぎ",
+          "example": "Now, let's transition to the next topic.",
+          "level": "presentation"
+        },
+        {
+          "english": "refer to",
+          "japanese": "参照する、言及する",
+          "example": "Please refer to slide 5.",
+          "level": "presentation"
+        },
+        {
+          "english": "point out",
+          "japanese": "指摘する",
+          "example": "I'd like to point out an important detail.",
+          "level": "presentation"
+        },
+        {
+          "english": "demonstrate",
+          "japanese": "実演する、証明する",
+          "example": "Let me demonstrate how this works.",
+          "level": "presentation"
+        },
+        {
+          "english": "conclude",
+          "japanese": "結論を述べる",
+          "example": "To conclude, here are the main takeaways.",
+          "level": "presentation"
+        },
+        {
+          "english": "recommend",
+          "japanese": "推奨する",
+          "example": "I recommend the following approach.",
+          "level": "presentation"
+        },
+        {
+          "english": "propose",
+          "japanese": "提案する",
+          "example": "I'd like to propose a solution.",
+          "level": "presentation"
+        },
+        {
+          "english": "overview",
+          "japanese": "概観、概要",
+          "example": "Here's an overview of the project.",
+          "level": "presentation"
+        },
+        {
+          "english": "agenda",
+          "japanese": "議題",
+          "example": "Today's agenda includes three topics.",
+          "level": "presentation"
+        },
+        {
+          "english": "key takeaway",
+          "japanese": "重要なポイント",
+          "example": "The key takeaway is to focus on quality.",
+          "level": "presentation"
+        },
+        {
+          "english": "moving forward",
+          "japanese": "今後、前進して",
+          "example": "Moving forward, we'll implement these changes.",
+          "level": "presentation"
+        },
+        {
+          "english": "as you can see",
+          "japanese": "ご覧の通り",
+          "example": "As you can see from the chart...",
+          "level": "presentation"
+        },
+        {
+          "english": "in other words",
+          "japanese": "言い換えれば",
+          "example": "In other words, we need more time.",
+          "level": "presentation"
+        },
+        {
+          "english": "for instance",
+          "japanese": "例えば",
+          "example": "For instance, consider this scenario.",
+          "level": "presentation"
+        },
+        {
+          "english": "accordingly",
+          "japanese": "それに応じて",
+          "example": "accordingly.",
+          "level": "presentation"
+        },
+        {
+          "english": "address",
+          "japanese": "扱う",
+          "example": "address.",
+          "level": "presentation"
+        },
+        {
+          "english": "approach",
+          "japanese": "アプローチ",
+          "example": "approach.",
+          "level": "presentation"
+        },
+        {
+          "english": "beneficial",
+          "japanese": "有益な",
+          "example": "beneficial.",
+          "level": "presentation"
+        },
+        {
+          "english": "bring up",
+          "japanese": "持ち出す",
+          "example": "bring up.",
+          "level": "presentation"
+        },
+        {
+          "english": "clarification",
+          "japanese": "明確化",
+          "example": "clarification.",
+          "level": "presentation"
+        },
+        {
+          "english": "comparison",
+          "japanese": "比較",
+          "example": "comparison.",
+          "level": "presentation"
+        },
+        {
+          "english": "contrast",
+          "japanese": "対比",
+          "example": "contrast.",
+          "level": "presentation"
+        },
+        {
+          "english": "critical",
+          "japanese": "重要な",
+          "example": "critical.",
+          "level": "presentation"
+        },
+        {
+          "english": "discuss",
+          "japanese": "議論する",
+          "example": "discuss.",
+          "level": "presentation"
+        },
+        {
+          "english": "distinction",
+          "japanese": "区別",
+          "example": "distinction.",
+          "level": "presentation"
+        },
+        {
+          "english": "dive into",
+          "japanese": "掘り下げる",
+          "example": "dive into.",
+          "level": "presentation"
+        },
+        {
+          "english": "elaborate on",
+          "japanese": "詳述する",
+          "example": "elaborate on.",
+          "level": "presentation"
+        },
+        {
+          "english": "examine",
+          "japanese": "検討する",
+          "example": "examine.",
+          "level": "presentation"
+        },
+        {
+          "english": "expand on",
+          "japanese": "詳しく述べる",
+          "example": "expand on.",
+          "level": "presentation"
+        },
+        {
+          "english": "explore",
+          "japanese": "探る",
+          "example": "explore.",
+          "level": "presentation"
+        },
+        {
+          "english": "framework",
+          "japanese": "枠組み",
+          "example": "framework.",
+          "level": "presentation"
+        },
+        {
+          "english": "furthermore",
+          "japanese": "さらに",
+          "example": "furthermore.",
+          "level": "presentation"
+        },
+        {
+          "english": "implication",
+          "japanese": "含意",
+          "example": "implication.",
+          "level": "presentation"
+        },
+        {
+          "english": "insight",
+          "japanese": "洞察",
+          "example": "insight.",
+          "level": "presentation"
+        },
+        {
+          "english": "mention",
+          "japanese": "言及する",
+          "example": "mention.",
+          "level": "presentation"
+        },
+        {
+          "english": "noteworthy",
+          "japanese": "注目すべき",
+          "example": "noteworthy.",
+          "level": "presentation"
+        },
+        {
+          "english": "perspective",
+          "japanese": "視点",
+          "example": "perspective.",
+          "level": "presentation"
+        },
+        {
+          "english": "recap",
+          "japanese": "要約",
+          "example": "recap.",
+          "level": "presentation"
+        },
+        {
+          "english": "reiterate",
+          "japanese": "繰り返す",
+          "example": "reiterate.",
+          "level": "presentation"
+        },
+        {
+          "english": "significant",
+          "japanese": "重要な",
+          "example": "significant.",
+          "level": "presentation"
+        },
+        {
+          "english": "touch upon",
+          "japanese": "触れる",
+          "example": "touch upon.",
+          "level": "presentation"
+        },
+        {
+          "english": "underlying",
+          "japanese": "根底にある",
+          "example": "underlying.",
+          "level": "presentation"
+        },
+        {
+          "english": "walk through",
+          "japanese": "説明する",
+          "example": "walk through.",
+          "level": "presentation"
+        },
+        {
+          "english": "allocate",
+          "japanese": "割り当てる",
+          "example": "Allocate time for questions.",
+          "level": "presentation"
+        },
+        {
+          "english": "anticipate",
+          "japanese": "予測する",
+          "example": "I anticipate questions about...",
+          "level": "presentation"
+        },
+        {
+          "english": "appreciate",
+          "japanese": "感謝する",
+          "example": "I appreciate your attention.",
+          "level": "presentation"
+        },
+        {
+          "english": "engage",
+          "japanese": "関与させる",
+          "example": "Engage with the audience.",
+          "level": "presentation"
+        },
+        {
+          "english": "facilitate",
+          "japanese": "促進する",
+          "example": "This will facilitate understanding.",
+          "level": "presentation"
+        },
+        {
+          "english": "handout",
+          "japanese": "配布資料",
+          "example": "Please refer to the handout.",
+          "level": "presentation"
+        },
+        {
+          "english": "initiative",
+          "japanese": "イニシアチブ",
+          "example": "Our new initiative.",
+          "level": "presentation"
+        },
+        {
+          "english": "objective",
+          "japanese": "目的",
+          "example": "Our main objective is...",
+          "level": "presentation"
+        },
+        {
+          "english": "proceed",
+          "japanese": "進める",
+          "example": "Let's proceed to the next slide.",
+          "level": "presentation"
+        },
+        {
+          "english": "reference",
+          "japanese": "参照する",
+          "example": "As referenced in the chart.",
+          "level": "presentation"
+        },
+        {
+          "english": "relevant",
+          "japanese": "関連した",
+          "example": "This is highly relevant to...",
+          "level": "presentation"
+        },
+        {
+          "english": "audience",
+          "japanese": "聴衆",
+          "example": "Thank you, audience.",
+          "level": "presentation"
+        },
+        {
+          "english": "chart",
+          "japanese": "図表",
+          "example": "As shown in this chart.",
+          "level": "presentation"
+        },
+        {
+          "english": "conclusion",
+          "japanese": "結論",
+          "example": "In conclusion...",
+          "level": "presentation"
+        },
+        {
+          "english": "diagram",
+          "japanese": "図",
+          "example": "Refer to the diagram.",
+          "level": "presentation"
+        },
+        {
+          "english": "feature",
+          "japanese": "特徴",
+          "example": "Key features include...",
+          "level": "presentation"
+        },
+        {
+          "english": "feedback",
+          "japanese": "フィードバック",
+          "example": "I welcome your feedback.",
+          "level": "presentation"
+        },
+        {
+          "english": "graph",
+          "japanese": "グラフ",
+          "example": "This graph shows...",
+          "level": "presentation"
+        },
+        {
+          "english": "illustration",
+          "japanese": "図解",
+          "example": "As this illustration shows.",
+          "level": "presentation"
+        },
+        {
+          "english": "visualization",
+          "japanese": "視覚化",
+          "example": "Data visualization.",
+          "level": "presentation"
+        },
+        {
+          "english": "workflow",
+          "japanese": "ワークフロー",
+          "example": "Our workflow is...",
+          "level": "presentation"
+        },
+        {
+          "english": "summary",
+          "japanese": "要約",
+          "example": "In summary...",
+          "level": "presentation"
+        }
+      ]
+    },
+    {
+      "name": "プロジェクトマネジメント用語",
+      "icon": "📋",
+      "terms": [
+        {
+          "english": "scope",
+          "japanese": "範囲、スコープ",
+          "example": "Define the project scope clearly.",
+          "level": "pm"
+        },
+        {
+          "english": "deliverable",
+          "japanese": "成果物",
+          "example": "What are the key deliverables?",
+          "level": "pm"
+        },
+        {
+          "english": "milestone",
+          "japanese": "マイルストーン、節目",
+          "example": "We've reached a major milestone.",
+          "level": "pm"
+        },
+        {
+          "english": "dependency",
+          "japanese": "依存関係",
+          "example": "Identify task dependencies.",
+          "level": "pm"
+        },
+        {
+          "english": "constraint",
+          "japanese": "制約",
+          "example": "Work within budget constraints.",
+          "level": "pm"
+        },
+        {
+          "english": "risk mitigation",
+          "japanese": "リスク軽減",
+          "example": "Implement risk mitigation strategies.",
+          "level": "pm"
+        },
+        {
+          "english": "baseline",
+          "japanese": "ベースライン、基準",
+          "example": "Establish a project baseline.",
+          "level": "pm"
+        },
+        {
+          "english": "buffer",
+          "japanese": "バッファ、余裕",
+          "example": "Add a time buffer for unexpected delays.",
+          "level": "pm"
+        },
+        {
+          "english": "critical path",
+          "japanese": "クリティカルパス",
+          "example": "Focus on the critical path activities.",
+          "level": "pm"
+        },
+        {
+          "english": "retrospective",
+          "japanese": "振り返り",
+          "example": "Hold a sprint retrospective.",
+          "level": "pm"
+        },
+        {
+          "english": "stakeholder",
+          "japanese": "ステークホルダー、利害関係者",
+          "example": "Engage with key stakeholders.",
+          "level": "pm"
+        },
+        {
+          "english": "velocity",
+          "japanese": "ベロシティ、速度",
+          "example": "Track team velocity over sprints.",
+          "level": "pm"
+        },
+        {
+          "english": "backlog",
+          "japanese": "バックログ、未処理分",
+          "example": "Prioritize the product backlog.",
+          "level": "pm"
+        },
+        {
+          "english": "burn down",
+          "japanese": "バーンダウン",
+          "example": "Review the burn down chart.",
+          "level": "pm"
+        },
+        {
+          "english": "iteration",
+          "japanese": "イテレーション、反復",
+          "example": "Plan the next iteration.",
+          "level": "pm"
+        },
+        {
+          "english": "standup",
+          "japanese": "スタンドアップミーティング",
+          "example": "Daily standup at 9 AM.",
+          "level": "pm"
+        },
+        {
+          "english": "WIP",
+          "japanese": "進行中の作業",
+          "example": "Limit work in progress (WIP).",
+          "level": "pm"
+        },
+        {
+          "english": "estimation",
+          "japanese": "見積もり",
+          "example": "Improve estimation accuracy.",
+          "level": "pm"
+        },
+        {
+          "english": "contingency",
+          "japanese": "不測の事態、予備",
+          "example": "Build in contingency time.",
+          "level": "pm"
+        },
+        {
+          "english": "handoff",
+          "japanese": "引き継ぎ",
+          "example": "Plan a smooth handoff to operations.",
+          "level": "pm"
+        },
+        {
+          "english": "acceptance criteria",
+          "japanese": "受入基準",
+          "example": "acceptance criteria.",
+          "level": "pm"
+        },
+        {
+          "english": "agile",
+          "japanese": "アジャイル",
+          "example": "agile.",
+          "level": "pm"
+        },
+        {
+          "english": "blockers",
+          "japanese": "障害",
+          "example": "blockers.",
+          "level": "pm"
+        },
+        {
+          "english": "burnup",
+          "japanese": "バーンアップ",
+          "example": "burnup.",
+          "level": "pm"
+        },
+        {
+          "english": "capacity planning",
+          "japanese": "能力計画",
+          "example": "capacity planning.",
+          "level": "pm"
+        },
+        {
+          "english": "change request",
+          "japanese": "変更要求",
+          "example": "change request.",
+          "level": "pm"
+        },
+        {
+          "english": "daily scrum",
+          "japanese": "デイリースクラム",
+          "example": "daily scrum.",
+          "level": "pm"
+        },
+        {
+          "english": "definition of done",
+          "japanese": "完了の定義",
+          "example": "definition of done.",
+          "level": "pm"
+        },
+        {
+          "english": "epic",
+          "japanese": "エピック",
+          "example": "epic.",
+          "level": "pm"
+        },
+        {
+          "english": "feature",
+          "japanese": "機能",
+          "example": "feature.",
+          "level": "pm"
+        },
+        {
+          "english": "impediment",
+          "japanese": "障害",
+          "example": "impediment.",
+          "level": "pm"
+        },
+        {
+          "english": "increment",
+          "japanese": "インクリメント",
+          "example": "increment.",
+          "level": "pm"
+        },
+        {
+          "english": "kanban",
+          "japanese": "かんばん",
+          "example": "kanban.",
+          "level": "pm"
+        },
+        {
+          "english": "planning poker",
+          "japanese": "プランニングポーカー",
+          "example": "planning poker.",
+          "level": "pm"
+        },
+        {
+          "english": "product owner",
+          "japanese": "プロダクトオーナー",
+          "example": "product owner.",
+          "level": "pm"
+        },
+        {
+          "english": "refinement",
+          "japanese": "リファインメント",
+          "example": "refinement.",
+          "level": "pm"
+        },
+        {
+          "english": "release planning",
+          "japanese": "リリース計画",
+          "example": "release planning.",
+          "level": "pm"
+        },
+        {
+          "english": "roadmap",
+          "japanese": "ロードマップ",
+          "example": "roadmap.",
+          "level": "pm"
+        },
+        {
+          "english": "scrum master",
+          "japanese": "スクラムマスター",
+          "example": "scrum master.",
+          "level": "pm"
+        },
+        {
+          "english": "sprint planning",
+          "japanese": "スプリント計画",
+          "example": "sprint planning.",
+          "level": "pm"
+        },
+        {
+          "english": "sprint review",
+          "japanese": "スプリントレビュー",
+          "example": "sprint review.",
+          "level": "pm"
+        },
+        {
+          "english": "story points",
+          "japanese": "ストーリーポイント",
+          "example": "story points.",
+          "level": "pm"
+        },
+        {
+          "english": "task board",
+          "japanese": "タスクボード",
+          "example": "task board.",
+          "level": "pm"
+        },
+        {
+          "english": "timebox",
+          "japanese": "タイムボックス",
+          "example": "timebox.",
+          "level": "pm"
+        },
+        {
+          "english": "user story",
+          "japanese": "ユーザーストーリー",
+          "example": "user story.",
+          "level": "pm"
+        },
+        {
+          "english": "burndown",
+          "japanese": "バーンダウン",
+          "example": "Check the burndown chart.",
+          "level": "pm"
+        },
+        {
+          "english": "capacity",
+          "japanese": "容量",
+          "example": "Team capacity planning.",
+          "level": "pm"
+        },
+        {
+          "english": "charter",
+          "japanese": "憲章",
+          "example": "Project charter.",
+          "level": "pm"
+        },
+        {
+          "english": "criteria",
+          "japanese": "基準",
+          "example": "Acceptance criteria.",
+          "level": "pm"
+        },
+        {
+          "english": "escalate",
+          "japanese": "エスカレートする",
+          "example": "Escalate the issue.",
+          "level": "pm"
+        },
+        {
+          "english": "kickoff",
+          "japanese": "キックオフ",
+          "example": "Project kickoff meeting.",
+          "level": "pm"
+        },
+        {
+          "english": "mitigation",
+          "japanese": "軽減",
+          "example": "Risk mitigation.",
+          "level": "pm"
+        },
+        {
+          "english": "spike",
+          "japanese": "スパイク",
+          "example": "Technical spike.",
+          "level": "pm"
+        },
+        {
+          "english": "sprint",
+          "japanese": "スプリント",
+          "example": "Two-week sprint.",
+          "level": "pm"
+        },
+        {
+          "english": "throughput",
+          "japanese": "スループット",
+          "example": "Measure throughput.",
+          "level": "pm"
+        },
+        {
+          "english": "timeline",
+          "japanese": "タイムライン",
+          "example": "Project timeline.",
+          "level": "pm"
+        },
+        {
+          "english": "waterfall",
+          "japanese": "ウォーターフォール",
+          "example": "Waterfall methodology.",
+          "level": "pm"
+        },
+        {
+          "english": "accountability",
+          "japanese": "説明責任",
+          "example": "Clear accountability.",
+          "level": "pm"
+        },
+        {
+          "english": "allocation",
+          "japanese": "割り当て",
+          "example": "Resource allocation.",
+          "level": "pm"
+        },
+        {
+          "english": "bottleneck",
+          "japanese": "ボトルネック",
+          "example": "Identify bottlenecks.",
+          "level": "pm"
+        },
+        {
+          "english": "feasibility",
+          "japanese": "実現可能性",
+          "example": "Feasibility study.",
+          "level": "pm"
+        },
+        {
+          "english": "prioritization",
+          "japanese": "優先順位付け",
+          "example": "Backlog prioritization.",
+          "level": "pm"
+        },
+        {
+          "english": "artifact",
+          "japanese": "成果物",
+          "example": "Build artifacts.",
+          "level": "pm"
+        }
+      ]
+    },
+    {
+      "name": "データ分析・統計用語",
+      "icon": "📈",
+      "terms": [
+        {
+          "english": "correlation",
+          "japanese": "相関",
+          "example": "Find the correlation between variables.",
+          "level": "analytics"
+        },
+        {
+          "english": "distribution",
+          "japanese": "分布",
+          "example": "Analyze the data distribution.",
+          "level": "analytics"
+        },
+        {
+          "english": "outlier",
+          "japanese": "外れ値",
+          "example": "Identify and remove outliers.",
+          "level": "analytics"
+        },
+        {
+          "english": "metric",
+          "japanese": "指標",
+          "example": "Track key performance metrics.",
+          "level": "analytics"
+        },
+        {
+          "english": "baseline",
+          "japanese": "ベースライン、基準値",
+          "example": "Establish a baseline for comparison.",
+          "level": "analytics"
+        },
+        {
+          "english": "variance",
+          "japanese": "分散",
+          "example": "Calculate the variance in the data.",
+          "level": "analytics"
+        },
+        {
+          "english": "aggregate",
+          "japanese": "集計する、総計",
+          "example": "Aggregate the results by region.",
+          "level": "analytics"
+        },
+        {
+          "english": "segment",
+          "japanese": "セグメント、区分",
+          "example": "Segment users by behavior.",
+          "level": "analytics"
+        },
+        {
+          "english": "cohort",
+          "japanese": "コホート、集団",
+          "example": "Analyze cohort retention rates.",
+          "level": "analytics"
+        },
+        {
+          "english": "trend",
+          "japanese": "トレンド、傾向",
+          "example": "Identify emerging trends.",
+          "level": "analytics"
+        },
+        {
+          "english": "anomaly",
+          "japanese": "異常、例外",
+          "example": "Detect anomalies in the pattern.",
+          "level": "analytics"
+        },
+        {
+          "english": "threshold",
+          "japanese": "しきい値",
+          "example": "Set an alert threshold.",
+          "level": "analytics"
+        },
+        {
+          "english": "normalize",
+          "japanese": "正規化する",
+          "example": "Normalize the data before analysis.",
+          "level": "analytics"
+        },
+        {
+          "english": "dimension",
+          "japanese": "次元、ディメンション",
+          "example": "Add a time dimension to the report.",
+          "level": "analytics"
+        },
+        {
+          "english": "granularity",
+          "japanese": "粒度",
+          "example": "Increase the data granularity.",
+          "level": "analytics"
+        },
+        {
+          "english": "funnel",
+          "japanese": "ファネル、じょうご",
+          "example": "Analyze the conversion funnel.",
+          "level": "analytics"
+        },
+        {
+          "english": "churn",
+          "japanese": "解約率、離脱",
+          "example": "Reduce customer churn.",
+          "level": "analytics"
+        },
+        {
+          "english": "retention",
+          "japanese": "保持率、定着率",
+          "example": "Improve user retention.",
+          "level": "analytics"
+        },
+        {
+          "english": "conversion",
+          "japanese": "コンバージョン、転換",
+          "example": "Optimize conversion rates.",
+          "level": "analytics"
+        },
+        {
+          "english": "attribution",
+          "japanese": "帰属、原因特定",
+          "example": "Use multi-touch attribution models.",
+          "level": "analytics"
+        },
+        {
+          "english": "benchmark",
+          "japanese": "ベンチマーク",
+          "example": "benchmark.",
+          "level": "analytics"
+        },
+        {
+          "english": "breakdown",
+          "japanese": "内訳",
+          "example": "breakdown.",
+          "level": "analytics"
+        },
+        {
+          "english": "bucket",
+          "japanese": "バケット",
+          "example": "bucket.",
+          "level": "analytics"
+        },
+        {
+          "english": "cluster",
+          "japanese": "クラスター",
+          "example": "cluster.",
+          "level": "analytics"
+        },
+        {
+          "english": "cohort analysis",
+          "japanese": "コホート分析",
+          "example": "cohort analysis.",
+          "level": "analytics"
+        },
+        {
+          "english": "dashboard",
+          "japanese": "ダッシュボード",
+          "example": "dashboard.",
+          "level": "analytics"
+        },
+        {
+          "english": "data mining",
+          "japanese": "データマイニング",
+          "example": "data mining.",
+          "level": "analytics"
+        },
+        {
+          "english": "dataset",
+          "japanese": "データセット",
+          "example": "dataset.",
+          "level": "analytics"
+        },
+        {
+          "english": "demographic",
+          "japanese": "人口統計の",
+          "example": "demographic.",
+          "level": "analytics"
+        },
+        {
+          "english": "drill down",
+          "japanese": "詳細確認",
+          "example": "drill down.",
+          "level": "analytics"
+        },
+        {
+          "english": "histogram",
+          "japanese": "ヒストグラム",
+          "example": "histogram.",
+          "level": "analytics"
+        },
+        {
+          "english": "hypothesis",
+          "japanese": "仮説",
+          "example": "hypothesis.",
+          "level": "analytics"
+        },
+        {
+          "english": "indicator",
+          "japanese": "指標",
+          "example": "indicator.",
+          "level": "analytics"
+        },
+        {
+          "english": "insight",
+          "japanese": "洞察",
+          "example": "insight.",
+          "level": "analytics"
+        },
+        {
+          "english": "KPI tracking",
+          "japanese": "KPI追跡",
+          "example": "KPI tracking.",
+          "level": "analytics"
+        },
+        {
+          "english": "median",
+          "japanese": "中央値",
+          "example": "median.",
+          "level": "analytics"
+        },
+        {
+          "english": "percentile",
+          "japanese": "パーセンタイル",
+          "example": "percentile.",
+          "level": "analytics"
+        },
+        {
+          "english": "predictive",
+          "japanese": "予測の",
+          "example": "predictive.",
+          "level": "analytics"
+        },
+        {
+          "english": "quartile",
+          "japanese": "四分位数",
+          "example": "quartile.",
+          "level": "analytics"
+        },
+        {
+          "english": "regression",
+          "japanese": "回帰",
+          "example": "regression.",
+          "level": "analytics"
+        },
+        {
+          "english": "sample size",
+          "japanese": "サンプルサイズ",
+          "example": "sample size.",
+          "level": "analytics"
+        },
+        {
+          "english": "scatter plot",
+          "japanese": "散布図",
+          "example": "scatter plot.",
+          "level": "analytics"
+        },
+        {
+          "english": "significance",
+          "japanese": "有意性",
+          "example": "significance.",
+          "level": "analytics"
+        },
+        {
+          "english": "standard deviation",
+          "japanese": "標準偏差",
+          "example": "standard deviation.",
+          "level": "analytics"
+        },
+        {
+          "english": "time series",
+          "japanese": "時系列",
+          "example": "time series.",
+          "level": "analytics"
+        },
+        {
+          "english": "visualization",
+          "japanese": "可視化",
+          "example": "visualization.",
+          "level": "analytics"
+        },
+        {
+          "english": "coefficient",
+          "japanese": "係数",
+          "example": "Correlation coefficient.",
+          "level": "analytics"
+        },
+        {
+          "english": "deviation",
+          "japanese": "偏差",
+          "example": "Standard deviation.",
+          "level": "analytics"
+        },
+        {
+          "english": "inference",
+          "japanese": "推論",
+          "example": "Statistical inference.",
+          "level": "analytics"
+        },
+        {
+          "english": "prediction",
+          "japanese": "予測",
+          "example": "Make predictions.",
+          "level": "analytics"
+        },
+        {
+          "english": "probability",
+          "japanese": "確率",
+          "example": "Probability distribution.",
+          "level": "analytics"
+        },
+        {
+          "english": "sampling",
+          "japanese": "サンプリング",
+          "example": "Random sampling.",
+          "level": "analytics"
+        },
+        {
+          "english": "skewness",
+          "japanese": "歪度",
+          "example": "Data skewness.",
+          "level": "analytics"
+        },
+        {
+          "english": "accuracy",
+          "japanese": "精度",
+          "example": "Model accuracy.",
+          "level": "analytics"
+        },
+        {
+          "english": "binning",
+          "japanese": "ビニング",
+          "example": "Data binning technique.",
+          "level": "analytics"
+        },
+        {
+          "english": "bootstrap",
+          "japanese": "ブートストラップ",
+          "example": "Bootstrap sampling.",
+          "level": "analytics"
+        },
+        {
+          "english": "causation",
+          "japanese": "因果関係",
+          "example": "Correlation vs causation.",
+          "level": "analytics"
+        },
+        {
+          "english": "clustering",
+          "japanese": "クラスタリング",
+          "example": "K-means clustering.",
+          "level": "analytics"
+        },
+        {
+          "english": "dimensionality",
+          "japanese": "次元数",
+          "example": "Reduce dimensionality.",
+          "level": "analytics"
+        },
+        {
+          "english": "interpolation",
+          "japanese": "補間",
+          "example": "Linear interpolation.",
+          "level": "analytics"
+        },
+        {
+          "english": "overfitting",
+          "japanese": "過学習",
+          "example": "Avoid overfitting.",
+          "level": "analytics"
+        },
+        {
+          "english": "pipeline",
+          "japanese": "パイプライン",
+          "example": "Data pipeline.",
+          "level": "analytics"
+        },
+        {
+          "english": "precision",
+          "japanese": "精密度",
+          "example": "Precision and recall.",
+          "level": "analytics"
+        },
+        {
+          "english": "attribute",
+          "japanese": "属性",
+          "example": "Data attributes.",
+          "level": "analytics"
+        },
+        {
+          "english": "categorical",
+          "japanese": "カテゴリカル",
+          "example": "Categorical variables.",
+          "level": "analytics"
+        },
+        {
+          "english": "continuous",
+          "japanese": "連続的な",
+          "example": "Continuous data.",
+          "level": "analytics"
+        }
+      ]
+    },
+    {
+      "name": "セキュリティ用語",
+      "icon": "🔒",
+      "terms": [
+        {
+          "english": "vulnerability",
+          "japanese": "脆弱性",
+          "example": "Patch security vulnerabilities.",
+          "level": "security"
+        },
+        {
+          "english": "encryption",
+          "japanese": "暗号化",
+          "example": "Use end-to-end encryption.",
+          "level": "security"
+        },
+        {
+          "english": "authentication",
+          "japanese": "認証",
+          "example": "Implement multi-factor authentication.",
+          "level": "security"
+        },
+        {
+          "english": "authorization",
+          "japanese": "認可、権限付与",
+          "example": "Check user authorization.",
+          "level": "security"
+        },
+        {
+          "english": "breach",
+          "japanese": "侵害、違反",
+          "example": "Prevent data breaches.",
+          "level": "security"
+        },
+        {
+          "english": "compliance",
+          "japanese": "コンプライアンス、準拠",
+          "example": "Ensure GDPR compliance.",
+          "level": "security"
+        },
+        {
+          "english": "firewall",
+          "japanese": "ファイアウォール",
+          "example": "Configure the firewall rules.",
+          "level": "security"
+        },
+        {
+          "english": "penetration",
+          "japanese": "侵入、浸透",
+          "example": "Conduct penetration testing.",
+          "level": "security"
+        },
+        {
+          "english": "malware",
+          "japanese": "マルウェア、悪意あるソフト",
+          "example": "Scan for malware.",
+          "level": "security"
+        },
+        {
+          "english": "phishing",
+          "japanese": "フィッシング詐欺",
+          "example": "Beware of phishing emails.",
+          "level": "security"
+        },
+        {
+          "english": "credential",
+          "japanese": "認証情報",
+          "example": "Never share your credentials.",
+          "level": "security"
+        },
+        {
+          "english": "audit",
+          "japanese": "監査",
+          "example": "Perform a security audit.",
+          "level": "security"
+        },
+        {
+          "english": "integrity",
+          "japanese": "完全性、整合性",
+          "example": "Ensure data integrity.",
+          "level": "security"
+        },
+        {
+          "english": "confidentiality",
+          "japanese": "機密性",
+          "example": "Maintain confidentiality of user data.",
+          "level": "security"
+        },
+        {
+          "english": "threat",
+          "japanese": "脅威",
+          "example": "Identify potential threats.",
+          "level": "security"
+        },
+        {
+          "english": "access control",
+          "japanese": "アクセス制御",
+          "example": "access control.",
+          "level": "security"
+        },
+        {
+          "english": "attack vector",
+          "japanese": "攻撃経路",
+          "example": "attack vector.",
+          "level": "security"
+        },
+        {
+          "english": "backdoor",
+          "japanese": "バックドア",
+          "example": "backdoor.",
+          "level": "security"
+        },
+        {
+          "english": "brute force",
+          "japanese": "ブルートフォース",
+          "example": "brute force.",
+          "level": "security"
+        },
+        {
+          "english": "certificate",
+          "japanese": "証明書",
+          "example": "certificate.",
+          "level": "security"
+        },
+        {
+          "english": "cipher",
+          "japanese": "暗号",
+          "example": "cipher.",
+          "level": "security"
+        },
+        {
+          "english": "compromise",
+          "japanese": "侵害",
+          "example": "compromise.",
+          "level": "security"
+        },
+        {
+          "english": "CVE",
+          "japanese": "脆弱性識別子",
+          "example": "CVE.",
+          "level": "security"
+        },
+        {
+          "english": "decryption",
+          "japanese": "復号化",
+          "example": "decryption.",
+          "level": "security"
+        },
+        {
+          "english": "exploit",
+          "japanese": "エクスプロイト",
+          "example": "exploit.",
+          "level": "security"
+        },
+        {
+          "english": "hash",
+          "japanese": "ハッシュ",
+          "example": "hash.",
+          "level": "security"
+        },
+        {
+          "english": "incident",
+          "japanese": "インシデント",
+          "example": "incident.",
+          "level": "security"
+        },
+        {
+          "english": "injection",
+          "japanese": "インジェクション",
+          "example": "injection.",
+          "level": "security"
+        },
+        {
+          "english": "intrusion",
+          "japanese": "侵入",
+          "example": "intrusion.",
+          "level": "security"
+        },
+        {
+          "english": "keylogger",
+          "japanese": "キーロガー",
+          "example": "keylogger.",
+          "level": "security"
+        },
+        {
+          "english": "patch",
+          "japanese": "パッチ",
+          "example": "patch.",
+          "level": "security"
+        },
+        {
+          "english": "privilege",
+          "japanese": "特権",
+          "example": "privilege.",
+          "level": "security"
+        },
+        {
+          "english": "ransomware",
+          "japanese": "ランサムウェア",
+          "example": "ransomware.",
+          "level": "security"
+        },
+        {
+          "english": "sandbox",
+          "japanese": "サンドボックス",
+          "example": "sandbox.",
+          "level": "security"
+        },
+        {
+          "english": "session",
+          "japanese": "セッション",
+          "example": "session.",
+          "level": "security"
+        },
+        {
+          "english": "SSL/TLS",
+          "japanese": "SSL/TLS",
+          "example": "SSL/TLS.",
+          "level": "security"
+        },
+        {
+          "english": "token",
+          "japanese": "トークン",
+          "example": "token.",
+          "level": "security"
+        },
+        {
+          "english": "trojan",
+          "japanese": "トロイの木馬",
+          "example": "trojan.",
+          "level": "security"
+        },
+        {
+          "english": "two-factor",
+          "japanese": "2要素",
+          "example": "two-factor.",
+          "level": "security"
+        },
+        {
+          "english": "zero-day",
+          "japanese": "ゼロデイ",
+          "example": "zero-day.",
+          "level": "security"
+        },
+        {
+          "english": "credentials",
+          "japanese": "資格情報",
+          "example": "User credentials.",
+          "level": "security"
+        },
+        {
+          "english": "decrypt",
+          "japanese": "復号化する",
+          "example": "Decrypt the message.",
+          "level": "security"
+        },
+        {
+          "english": "encrypt",
+          "japanese": "暗号化する",
+          "example": "Encrypt sensitive data.",
+          "level": "security"
+        },
+        {
+          "english": "sanitize",
+          "japanese": "無害化する",
+          "example": "Sanitize user input.",
+          "level": "security"
+        },
+        {
+          "english": "whitelist",
+          "japanese": "ホワイトリスト",
+          "example": "Whitelist approved IPs.",
+          "level": "security"
+        },
+        {
+          "english": "biometric",
+          "japanese": "生体認証",
+          "example": "Biometric authentication.",
+          "level": "security"
+        },
+        {
+          "english": "forensics",
+          "japanese": "フォレンジック",
+          "example": "Digital forensics.",
+          "level": "security"
+        },
+        {
+          "english": "hardening",
+          "japanese": "強化",
+          "example": "System hardening.",
+          "level": "security"
+        },
+        {
+          "english": "quarantine",
+          "japanese": "隔離",
+          "example": "Quarantine infected files.",
+          "level": "security"
+        },
+        {
+          "english": "spoofing",
+          "japanese": "なりすまし",
+          "example": "Prevent spoofing.",
+          "level": "security"
+        },
+        {
+          "english": "identity",
+          "japanese": "アイデンティティ",
+          "example": "Identity verification.",
+          "level": "security"
+        },
+        {
+          "english": "policy",
+          "japanese": "ポリシー",
+          "example": "Security policy.",
+          "level": "security"
+        },
+        {
+          "english": "protocol",
+          "japanese": "プロトコル",
+          "example": "Security protocol.",
+          "level": "security"
+        },
+        {
+          "english": "validate",
+          "japanese": "検証する",
+          "example": "Validate user input.",
+          "level": "security"
+        }
+      ]
+    },
+    {
+      "name": "ネットワーク用語",
+      "icon": "🌐",
+      "terms": [
+        {
+          "english": "bandwidth",
+          "japanese": "帯域幅",
+          "example": "Increase network bandwidth.",
+          "level": "network"
+        },
+        {
+          "english": "latency",
+          "japanese": "遅延",
+          "example": "Reduce network latency.",
+          "level": "network"
+        },
+        {
+          "english": "throughput",
+          "japanese": "スループット",
+          "example": "Measure network throughput.",
+          "level": "network"
+        },
+        {
+          "english": "protocol",
+          "japanese": "プロトコル、通信規約",
+          "example": "Use the HTTPS protocol.",
+          "level": "network"
+        },
+        {
+          "english": "endpoint",
+          "japanese": "エンドポイント",
+          "example": "Configure the API endpoint.",
+          "level": "network"
+        },
+        {
+          "english": "gateway",
+          "japanese": "ゲートウェイ",
+          "example": "Set up a payment gateway.",
+          "level": "network"
+        },
+        {
+          "english": "proxy",
+          "japanese": "プロキシ、代理",
+          "example": "Use a proxy server.",
+          "level": "network"
+        },
+        {
+          "english": "DNS",
+          "japanese": "ドメインネームシステム",
+          "example": "Configure DNS settings.",
+          "level": "network"
+        },
+        {
+          "english": "subnet",
+          "japanese": "サブネット",
+          "example": "Create a private subnet.",
+          "level": "network"
+        },
+        {
+          "english": "routing",
+          "japanese": "ルーティング",
+          "example": "Configure network routing.",
+          "level": "network"
+        },
+        {
+          "english": "packet",
+          "japanese": "パケット",
+          "example": "Analyze network packets.",
+          "level": "network"
+        },
+        {
+          "english": "handshake",
+          "japanese": "ハンドシェイク",
+          "example": "Complete the SSL handshake.",
+          "level": "network"
+        },
+        {
+          "english": "timeout",
+          "japanese": "タイムアウト",
+          "example": "Set a connection timeout.",
+          "level": "network"
+        },
+        {
+          "english": "load balancing",
+          "japanese": "負荷分散",
+          "example": "Implement load balancing.",
+          "level": "network"
+        },
+        {
+          "english": "CDN",
+          "japanese": "コンテンツ配信ネットワーク",
+          "example": "Use a CDN for faster delivery.",
+          "level": "network"
+        },
+        {
+          "english": "API",
+          "japanese": "API",
+          "example": "API.",
+          "level": "network"
+        },
+        {
+          "english": "authentication",
+          "japanese": "認証",
+          "example": "authentication.",
+          "level": "network"
+        },
+        {
+          "english": "cache",
+          "japanese": "キャッシュ",
+          "example": "cache.",
+          "level": "network"
+        },
+        {
+          "english": "certificate",
+          "japanese": "証明書",
+          "example": "certificate.",
+          "level": "network"
+        },
+        {
+          "english": "connection",
+          "japanese": "接続",
+          "example": "connection.",
+          "level": "network"
+        },
+        {
+          "english": "cookie",
+          "japanese": "クッキー",
+          "example": "cookie.",
+          "level": "network"
+        },
+        {
+          "english": "domain",
+          "japanese": "ドメイン",
+          "example": "domain.",
+          "level": "network"
+        },
+        {
+          "english": "header",
+          "japanese": "ヘッダー",
+          "example": "header.",
+          "level": "network"
+        },
+        {
+          "english": "hostname",
+          "japanese": "ホスト名",
+          "example": "hostname.",
+          "level": "network"
+        },
+        {
+          "english": "HTTP/HTTPS",
+          "japanese": "HTTP/HTTPS",
+          "example": "HTTP/HTTPS.",
+          "level": "network"
+        },
+        {
+          "english": "IP address",
+          "japanese": "IPアドレス",
+          "example": "IP address.",
+          "level": "network"
+        },
+        {
+          "english": "localhost",
+          "japanese": "ローカルホスト",
+          "example": "localhost.",
+          "level": "network"
+        },
+        {
+          "english": "middleware",
+          "japanese": "ミドルウェア",
+          "example": "middleware.",
+          "level": "network"
+        },
+        {
+          "english": "ping",
+          "japanese": "ping",
+          "example": "ping.",
+          "level": "network"
+        },
+        {
+          "english": "port",
+          "japanese": "ポート",
+          "example": "port.",
+          "level": "network"
+        },
+        {
+          "english": "query string",
+          "japanese": "クエリ文字列",
+          "example": "query string.",
+          "level": "network"
+        },
+        {
+          "english": "redirect",
+          "japanese": "リダイレクト",
+          "example": "redirect.",
+          "level": "network"
+        },
+        {
+          "english": "request",
+          "japanese": "リクエスト",
+          "example": "request.",
+          "level": "network"
+        },
+        {
+          "english": "response",
+          "japanese": "レスポンス",
+          "example": "response.",
+          "level": "network"
+        },
+        {
+          "english": "REST",
+          "japanese": "REST",
+          "example": "REST.",
+          "level": "network"
+        },
+        {
+          "english": "server",
+          "japanese": "サーバー",
+          "example": "server.",
+          "level": "network"
+        },
+        {
+          "english": "session",
+          "japanese": "セッション",
+          "example": "session.",
+          "level": "network"
+        },
+        {
+          "english": "socket",
+          "japanese": "ソケット",
+          "example": "socket.",
+          "level": "network"
+        },
+        {
+          "english": "SSL certificate",
+          "japanese": "SSL証明書",
+          "example": "SSL certificate.",
+          "level": "network"
+        },
+        {
+          "english": "status code",
+          "japanese": "ステータスコード",
+          "example": "status code.",
+          "level": "network"
+        },
+        {
+          "english": "URL",
+          "japanese": "URL",
+          "example": "URL.",
+          "level": "network"
+        },
+        {
+          "english": "VPN",
+          "japanese": "VPN",
+          "example": "VPN.",
+          "level": "network"
+        },
+        {
+          "english": "WebSocket",
+          "japanese": "WebSocket",
+          "example": "WebSocket.",
+          "level": "network"
+        },
+        {
+          "english": "broadcast",
+          "japanese": "ブロードキャスト",
+          "example": "Broadcast message.",
+          "level": "network"
+        },
+        {
+          "english": "congestion",
+          "japanese": "輻輳",
+          "example": "Network congestion.",
+          "level": "network"
+        },
+        {
+          "english": "hop",
+          "japanese": "ホップ",
+          "example": "Network hop count.",
+          "level": "network"
+        },
+        {
+          "english": "multicast",
+          "japanese": "マルチキャスト",
+          "example": "Multicast traffic.",
+          "level": "network"
+        },
+        {
+          "english": "redundancy",
+          "japanese": "冗長性",
+          "example": "Network redundancy.",
+          "level": "network"
+        },
+        {
+          "english": "router",
+          "japanese": "ルーター",
+          "example": "Configure the router.",
+          "level": "network"
+        },
+        {
+          "english": "switch",
+          "japanese": "スイッチ",
+          "example": "Network switch.",
+          "level": "network"
+        },
+        {
+          "english": "topology",
+          "japanese": "トポロジー",
+          "example": "Network topology.",
+          "level": "network"
+        },
+        {
+          "english": "buffer",
+          "japanese": "バッファ",
+          "example": "Buffer overflow.",
+          "level": "network"
+        },
+        {
+          "english": "circuit",
+          "japanese": "回線",
+          "example": "Virtual circuit.",
+          "level": "network"
+        },
+        {
+          "english": "collision",
+          "japanese": "衝突",
+          "example": "Collision detection.",
+          "level": "network"
+        },
+        {
+          "english": "datagram",
+          "japanese": "データグラム",
+          "example": "UDP datagram.",
+          "level": "network"
+        },
+        {
+          "english": "encapsulation",
+          "japanese": "カプセル化",
+          "example": "Protocol encapsulation.",
+          "level": "network"
+        },
+        {
+          "english": "encryption",
+          "japanese": "暗号化",
+          "example": "Data encryption.",
+          "level": "network"
+        },
+        {
+          "english": "fragmentation",
+          "japanese": "断片化",
+          "example": "Packet fragmentation.",
+          "level": "network"
+        },
+        {
+          "english": "interface",
+          "japanese": "インターフェース",
+          "example": "Network interface.",
+          "level": "network"
+        },
+        {
+          "english": "payload",
+          "japanese": "ペイロード",
+          "example": "Packet payload.",
+          "level": "network"
+        },
+        {
+          "english": "address",
+          "japanese": "アドレス",
+          "example": "IP address.",
+          "level": "network"
+        },
+        {
+          "english": "bind",
+          "japanese": "バインドする",
+          "example": "Bind to port.",
+          "level": "network"
+        },
+        {
+          "english": "firewall",
+          "japanese": "ファイアウォール",
+          "example": "Configure firewall.",
+          "level": "network"
+        },
+        {
+          "english": "transmission",
+          "japanese": "送信",
+          "example": "Data transmission.",
+          "level": "network"
+        }
+      ]
+    }
+  ]
+}
