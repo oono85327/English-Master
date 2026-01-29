@@ -55,6 +55,100 @@ st.markdown("""
         margin-bottom: 10px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     }
+
+    /* --- Mobile Responsive Styles --- */
+
+    /* タッチ操作対応: 最小タップサイズ44px */
+    .stButton>button {
+        min-height: 44px;
+        min-width: 44px;
+        touch-action: manipulation;
+    }
+
+    .stRadio>div>label {
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+        padding: 8px 0;
+    }
+
+    /* タブのタッチ対応 */
+    .stTabs [data-baseweb="tab"] {
+        min-height: 44px;
+        padding: 12px 16px;
+    }
+
+    /* モバイル向けメディアクエリ */
+    @media (max-width: 768px) {
+        /* サイドバーの調整 */
+        [data-testid="stSidebar"] {
+            min-width: 100% !important;
+        }
+
+        /* メインコンテンツのパディング調整 */
+        .main .block-container {
+            padding: 1rem 0.5rem !important;
+            max-width: 100% !important;
+        }
+
+        /* カラムを縦積みに */
+        [data-testid="column"] {
+            width: 100% !important;
+            flex: 1 1 100% !important;
+        }
+
+        /* テーブルのスクロール対応 */
+        .stDataFrame, .stTable {
+            overflow-x: auto !important;
+        }
+
+        /* テキストエリアの幅調整 */
+        .stTextArea>div>div>textarea {
+            font-size: 16px !important; /* iOSでのズーム防止 */
+        }
+
+        /* ボタンの余白調整 */
+        .stButton>button {
+            padding: 12px 16px;
+            font-size: 16px;
+        }
+
+        /* メトリクスカードの調整 */
+        [data-testid="metric-container"] {
+            padding: 8px !important;
+        }
+
+        /* フラッシュカードの調整 */
+        .flashcard-container {
+            padding: 16px !important;
+            min-height: 150px !important;
+        }
+
+        /* Expanderの調整 */
+        .streamlit-expanderHeader {
+            font-size: 16px !important;
+            padding: 12px !important;
+        }
+    }
+
+    /* 小さいモバイル向け（iPhone SE等） */
+    @media (max-width: 375px) {
+        .main .block-container {
+            padding: 0.5rem 0.25rem !important;
+        }
+
+        h1 {
+            font-size: 1.5rem !important;
+        }
+
+        h2 {
+            font-size: 1.25rem !important;
+        }
+
+        h3 {
+            font-size: 1.1rem !important;
+        }
+    }
     </style>
     """, unsafe_allow_html=True)
 
